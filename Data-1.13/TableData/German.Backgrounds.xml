@@ -1,0 +1,3642 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BACKGROUNDS>
+	<BACKGROUND>
+		<uiIndex>0</uiIndex>
+		<szName>Hintergrundname (128 Zeichen)</szName>
+		<szShortName>Kurzname (20)</szShortName>
+		<szDescription>Gib hier eine Beschreibung ein. Diese wird auf dem Laptop angezeigt und kann bis zu 256 Buchstaben lang sein.</szDescription>
+		<ap_polar>0</ap_polar>
+		<ap_desert>0</ap_desert>
+		<ap_swamp>0</ap_swamp>
+		<ap_urban>0</ap_urban>
+		<ap_river>0</ap_river>
+		<ap_coastal>0</ap_coastal>
+		<ap_tropical>0</ap_tropical>
+		<ap_mountain>0</ap_mountain>
+		<agility>0</agility>
+		<strength>0</strength>
+		<dexterity>0</dexterity>
+		<mechanical>0</mechanical>
+		<medical>0</medical>
+		<wisdom>0</wisdom>
+		<explosives>0</explosives>
+		<leadership>0</leadership>
+		<marksmanship>0</marksmanship>
+		<ap_height>0</ap_height>
+		<ap_swimming>0</ap_swimming>
+		<ap_fortify>0</ap_fortify>
+		<ap_artillery>0</ap_artillery>
+		<ap_inventory>0</ap_inventory>
+		<ap_airdrop>0</ap_airdrop>
+		<ap_assault>0</ap_assault>
+		<travel_foot>0</travel_foot>
+		<travel_car>0</travel_car>
+		<travel_air>0</travel_air>
+		<travel_boat>0</travel_boat>
+		<resistance_poison>0</resistance_poison>
+		<resistance_fear>0</resistance_fear>
+		<resistance_suppression>0</resistance_suppression>
+		<resistance_physical>0</resistance_physical>
+		<resistance_alcohol>0</resistance_alcohol>
+		<interrogation>0</interrogation>
+		<prisonguard>0</prisonguard>
+		<betterprices_guns>0</betterprices_guns>
+		<betterprices>0</betterprices>
+		<capitulation>0</capitulation>
+		<speed_run>0</speed_run>
+		<speed_bandaging>0</speed_bandaging>
+		<drink_energyregen>0</drink_energyregen>
+		<carrystrength>0</carrystrength>
+		<food>0</food>
+		<water>0</water>
+		<sleep>0</sleep>
+		<meleedamage>0</meleedamage>
+		<cth_blades>0</cth_blades>
+		<camo>0</camo>
+		<stealth>0</stealth>
+		<increased_maxcth>0</increased_maxcth>
+		<hearing_night>0</hearing_night>
+		<hearing_day>0</hearing_day>
+		<disarm_trap>0</disarm_trap>
+		<approach_friendly>0</approach_friendly>
+		<approach_direct>0</approach_direct>
+		<approach_threaten>0</approach_threaten>
+		<approach_recruit>0</approach_recruit>
+		<breachingcharge>0</breachingcharge>
+		<cth_vs_creatures>0</cth_vs_creatures>
+		<insurance>0</insurance>
+		<spotter>0</spotter>
+		<druguse>0</druguse>
+		<xenophobic>0</xenophobic>
+		<level_underground>0</level_underground>
+		<scrounging>0</scrounging>
+		<traplevel>0</traplevel>
+		<corruptionspread>0</corruptionspread>
+		<no_male>0</no_male>
+		<no_female>0</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>1</uiIndex>
+		<szName>ANC-Veteran</szName>
+		<szShortName>ANC-Veteran</szShortName>
+		<szDescription>Die militanten Veteranen des ANC-Kampfes waren nicht nur in der Dschungelkriegsführung, 
+sondern auch in der politischen Theorie bewandert.</szDescription>
+		<ap_swamp>2</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<leadership>5</leadership>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>2</uiIndex>
+		<szName>Großwildjäger</szName>
+		<szShortName>Großwildjäger</szShortName>
+		<szDescription>Er reist in unberührte Gebiete, sucht nach faszinierenden Arten 
+und tötet sie ALLE.</szDescription>
+		<ap_desert>1</ap_desert>
+		<ap_swamp>2</ap_swamp>
+		<ap_urban>-3</ap_urban>
+		<ap_tropical>3</ap_tropical>
+		<travel_foot>3</travel_foot>
+		<carrystrength>4</carrystrength>
+		<stealth>6</stealth>
+		<cth_vs_creatures>10</cth_vs_creatures>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>3</uiIndex>
+		<szName>Teufelskerl</szName>
+		<szShortName>Teufelskerl</szShortName>
+		<szDescription>Grizzly ist ein imposanter Anblick auf dem Schlachtfeld 
+und schreckt nie davor zurück, den Feind frontal anzugreifen.</szDescription>
+		<ap_assault>2</ap_assault>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_direct>8</approach_direct>
+		<approach_threaten>4</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>4</uiIndex>
+		<szName>Automechaniker</szName>
+		<szShortName>Automechaniker</szShortName>
+		<szDescription>Wenn sie nicht gerade durch die Welt reist, arbeitet Vicky Tag und Nacht in ihrer Autowerkstatt 
+und ist eine sehr versierte Mechanikerin. Aber sie hat ihre Höhenangst nie überwunden.</szDescription>
+		<mechanical>6</mechanical>
+		<ap_height>-8</ap_height>
+		<ap_airdrop>-10</ap_airdrop>
+		<travel_car>10</travel_car>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>5</uiIndex>
+		<szName>Technikgenie</szName>
+		<szShortName>Technikgenie</szShortName>
+		<szDescription>Der Unterschied zu MacGyver: Er benutzt tatsächlich Waffen.</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory>
+		<breachingcharge>20</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>6</uiIndex>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen - 
+was will ein potenzieller Arbeitgeber mehr?</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>1</strength>
+		<resistance_physical>3</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>7</uiIndex>
+		<szName>Major der Roten Armee</szName>
+		<szShortName>Rote-Armee-Major</szShortName>
+		<szDescription>Ivans Trainingsprogramm ist der Stoff, aus dem Albträume sind, 
+aber es zahlt sich offensichtlich aus.</szDescription>
+		<ap_polar>5</ap_polar>
+		<ap_swimming>-10</ap_swimming>
+		<resistance_physical>3</resistance_physical>
+		<speed_run>5</speed_run>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>8</uiIndex>
+		<szName>Feuerwehrmann</szName>
+		<szShortName>Feuerwehrmann</szShortName>
+		<szDescription>Nur weil dabei nicht geschossen wird, muss es nicht weniger
+gefährlich sein.</szDescription>
+		<ap_height>2</ap_height>
+		<mechanical>3</mechanical>
+		<explosives>2</explosives>
+		<travel_car>5</travel_car>
+		<resistance_fear>6</resistance_fear>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>9</uiIndex>
+		<szName>Tschetschenien-Veteran</szName>
+		<szShortName>Tschetschenien-Vet.</szShortName>
+		<szDescription>Igor hat am russischen Feldzug in Tschetschenien teilgenommen und ist an raue Umgebungen gewöhnt.</szDescription>
+		<ap_mountain>8</ap_mountain>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<resistance_physical>5</resistance_physical>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<food>-20</food>
+		<water>-5</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>10</uiIndex>
+		<szName>Ranger</szName>
+		<szShortName>Ranger</szShortName>
+		<szDescription>Die Rangers bilden die Elite der US-Armee-Infanterie.</szDescription>
+		<ap_assault>3</ap_assault>
+		<marksmanship>2</marksmanship>
+		<travel_foot>5</travel_foot>
+		<speed_run>5</speed_run>
+		<food>-10</food>
+		<water>-10</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>11</uiIndex>
+		<szName>Pionier</szName>
+		<szShortName>Pionier</szShortName>
+		<szDescription>Ein Pionier kann in seinem Leben nur zwei Fehler machen. Der erste ist
+die Berufswahl.</szDescription>
+		<explosives>8</explosives>
+		<breachingcharge>20</breachingcharge>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>12</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<ap_urban>5</ap_urban>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>13</uiIndex>
+		<szName>Bombenleger</szName>
+		<szShortName>Bombenleger</szShortName>
+		<szDescription>Ob man sie Terroristen oder Freiheitskämpfer nennt, 
+hängt oft von der Beziehung zu den Getöteten ab.</szDescription>
+		<explosives>6</explosives>
+		<breachingcharge>30</breachingcharge>
+		<traplevel>1</traplevel>
+		<insurance>40</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>14</uiIndex>
+		<szName>Krankenschwester</szName>
+		<szShortName>Krankenschwester</szShortName>
+		<szDescription>Auch wenn sie keine Ärzte sind, werden Krankenschwestern und
+Pfleger in Kriegsgebieten dringend gebraucht.</szDescription>
+		<speed_bandaging>20</speed_bandaging>
+		<medical>7</medical>
+		<approach_friendly>25</approach_friendly>
+		<approach_threaten>-25</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>15</uiIndex>
+		<szName>Adliger</szName>
+		<szShortName>Adliger</szShortName>
+		<szDescription>Es gibt Leute, die nicht aus der Not heraus in dieses Geschäft einsteigen. Es ist zwar leicht, 
+sie als verweichlichte Aristokraten abzustempeln, aber einige sind tatsächlich recht fähig, 
+da sie die beste Ausbildung erhalten haben.</szDescription>
+		<xenophobic>1</xenophobic>
+		<marksmanship>1</marksmanship>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>16</uiIndex>
+		<szName>DFK-Vernichter</szName>
+		<szShortName>DFK-Vernichter</szShortName>
+		<szDescription>Deine Taten haben dir den Respekt und die Anerkennung eingebracht, die du verdienst.
+Wer braucht schon Beine?</szDescription>
+		<resistance_fear>15</resistance_fear>
+		<resistance_suppression>15</resistance_suppression>
+		<leadership>5</leadership>
+		<approach_recruit>15</approach_recruit>
+		<speed_run>-20</speed_run>
+		<agility>-8</agility>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>17</uiIndex>
+		<szName>Sanitäterin/Schützin</szName>
+		<szShortName>Sanitäterin/Schützin</szShortName>
+		<szDescription>Diese Kombination peppt zumindest deinen Lebenslauf auf.</szDescription>
+		<marksmanship>2</marksmanship>
+		<medical>4</medical>
+		<speed_bandaging>10</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>18</uiIndex>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Ausbilder</szShortName>
+		<szDescription>Genau wie bei den Pfadfindern. Nur eben mit Gewalt. Also eigentlich doch nicht wie bei den
+Pfadfindern...</szDescription>
+		<leadership>8</leadership>
+		<approach_recruit>10</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>19</uiIndex>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Wie ein Chirurg... schneiden wie beim allerersten Mal... Nur Spaß. Spider ist
+DIE Adresse, wenn dir die Eingeweide heraushängen.</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>20</uiIndex>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Cliff ist ein hochqualifizierter Arzt, auch wenn es in seinem Leben einmal
+eine... dunklere... Zeit gab.</szDescription>
+		<resistance_alcohol>10</resistance_alcohol>
+		<medical>5</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<druguse>1</druguse>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>21</uiIndex>
+		<szName>Gefängniswärter</szName>
+		<szShortName>Gefängniswärter</szShortName>
+		<szDescription>Bei längeren und größeren Konflikten sind ehemalige Gefängniswärter 
+die erste Wahl für die Leitung von Gefangenenlagern.</szDescription>
+		<prisonguard>300</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>22</uiIndex>
+		<szName>Kampfausbilder</szName>
+		<szShortName>Kampfausbilder</szShortName>
+		<szDescription>Das könnte Franks letzter Einsatz sein - mehrere private Organisationen
+wollen ihn bereits als Ausbilder für ihr Personal anwerben.</szDescription>
+		<agility>-5</agility>
+		<leadership>5</leadership>
+		<interrogation>15</interrogation>
+		<approach_friendly>10</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>23</uiIndex>
+		<szName>Verschmähte Liebe</szName>
+		<szShortName>Verschmähte Liebe</szShortName>
+		<szDescription>Von ihrer großen Liebe abgewiesen, steckt Buzz derzeit voller Hass.
+Sie scheint sich den richtigen Beruf ausgesucht zu haben.</szDescription>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<approach_friendly>-25</approach_friendly>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>24</uiIndex>
+		<szName>SWAT-Mitglied</szName>
+		<szShortName>SWAT</szShortName>
+		<szDescription>SWAT-Teams, die die Grenze zwischen Polizei und Militär verwischen, werden bei städtischen 
+Operationen eingesetzt, die für die gewöhnliche Strafverfolgung zu gefährlich sind.</szDescription>
+		<ap_urban>2</ap_urban>
+		<ap_assault>5</ap_assault>
+		<interrogation>75</interrogation>
+		<prisonguard>50</prisonguard>
+		<breachingcharge>70</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>25</uiIndex>
+		<szName>SWAT-Scharfschütze</szName>
+		<szShortName>SWAT-Scharfschütze</szShortName>
+		<szDescription>SWAT-Teams, die die Grenze zwischen Polizei und Militär verwischen, werden bei städtischen 
+Operationen eingesetzt, die für die gewöhnliche Strafverfolgung zu gefährlich sind.</szDescription>
+		<ap_urban>2</ap_urban>
+		<ap_height>2</ap_height>
+		<ap_assault>2</ap_assault>
+		<marksmanship>2</marksmanship>
+		<breachingcharge>60</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>26</uiIndex>
+		<szName>Bühnencrew</szName>
+		<szShortName>Bühnencrew</szShortName>
+		<szDescription>Knallende Geräusche, Feuerwerk, schreiende Menschen - ist es nicht seltsam, 
+wie ähnlich die Bühne dem Schlachtfeld ist?</szDescription>
+		<mechanical>3</mechanical>
+		<resistance_suppression>10</resistance_suppression>
+		<hearing_night>-3</hearing_night>
+		<hearing_day>-3</hearing_day>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>27</uiIndex>
+		<szName>Green Beret</szName>
+		<szShortName>Green Beret</szShortName>
+		<szDescription>Die Green Berets sind eine Spezialeinheit für unkonventionelle Kriegsführung.</szDescription>
+		<marksmanship>4</marksmanship>
+		<ap_airdrop>5</ap_airdrop>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<meleedamage>3</meleedamage>
+		<cth_blades>5</cth_blades>
+		<approach_threaten>10</approach_threaten>
+		<approach_recruit>-6</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>28</uiIndex>
+		<szName>Extremsportler</szName>
+		<szShortName>Extremsportler</szShortName>
+		<szDescription>Wenn du schon gerne dein Leben aufs Spiel setzt, kannst du auch gleich Geld damit
+verdienen...</szDescription>
+		<ap_polar>3</ap_polar>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>-8</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>5</ap_mountain>
+		<ap_airdrop>10</ap_airdrop>
+		<resistance_physical>5</resistance_physical>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<food>-10</food>
+		<water>-10</water>
+		<insurance>40</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>29</uiIndex>
+		<szName>Profi-Dieb</szName>
+		<szShortName>Dieb</szShortName>
+		<szDescription>Wenn es hieß 'nehmen oder liegen lassen', hast du dich immer fürs Nehmen entschieden.</szDescription>
+		<agility>3</agility>
+		<ap_inventory>-15</ap_inventory>
+		<carrystrength>7</carrystrength>
+		<stealth>5</stealth>
+		<hearing_night>1</hearing_night>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>30</uiIndex>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss
+diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>31</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner
+gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
+		<ap_coastal>5</ap_coastal>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>32</uiIndex>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das
+Töten ist hoffentlich neu für sie.</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>33</uiIndex>
+		<szName>Chinesischer Arzt</szName>
+		<szShortName>Chin. Arzt</szShortName>
+		<szDescription>Dr. Q beherrscht die alte chinesische Heilkunst. Nicht der schnellste
+Weg, einen Patienten zu heilen - aber er funktioniert.</szDescription>
+		<medical>8</medical>
+		<speed_bandaging>-25</speed_bandaging>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<meleedamage>6</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>34</uiIndex>
+		<szName>Bandenmitglied</szName>
+		<szShortName>Bandenmitglied</szShortName>
+		<szDescription>Für viele Bandenmitglieder ist es ein natürlicher Schritt, Söldner zu werden - der Job ist derselbe, 
+die Werkzeuge und die Bezahlung jedoch wesentlich besser.</szDescription>
+		<ap_polar>-5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_urban>8</ap_urban>
+		<ap_tropical>-5</ap_tropical>
+		<approach_threaten>10</approach_threaten>
+		<meleedamage>3</meleedamage>
+		<cth_blades>2</cth_blades>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>35</uiIndex>
+		<szName>New-Age-Spiritualist</szName>
+		<szShortName>New-Age-Heiler</szShortName>
+		<szDescription>Wer braucht schon ein Examen, um als Heiler zu praktizieren?</szDescription>
+		<speed_bandaging>10</speed_bandaging>
+		<approach_friendly>10</approach_friendly>
+		<resistance_alcohol>10</resistance_alcohol>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>36</uiIndex>
+		<szName>SAS</szName>
+		<szShortName>SAS</szShortName>
+		<szDescription>Der britische Special Air Service zählt zu den
+berühmtesten Spezialeinheiten der Welt. Seine Soldaten sind in jedem Gelände
+und für Luftlandeoperationen ausgebildet.</szDescription>
+		<ap_polar>3</ap_polar>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>3</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>3</ap_mountain>
+		<ap_airdrop>20</ap_airdrop>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep>
+		<marksmanship>3</marksmanship>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>37</uiIndex>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Ausbilder</szShortName>
+		<szDescription>Genau wie bei den Pfadfindern. Nur eben mit Gewalt. Also eigentlich doch nicht wie bei den
+Pfadfindern...</szDescription>
+		<leadership>8</leadership>
+		<approach_recruit>10</approach_recruit>
+		<xenophobic>1</xenophobic>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>38</uiIndex>
+		<szName>Absolvent</szName>
+		<szShortName>Absolvent</szShortName>
+		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, ist es an der Zeit 
+sich endlich eine Existenz aufzubauen.</szDescription>
+		<ap_polar>5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_river>5</ap_river>
+		<ap_tropical>-5</ap_tropical>
+		<ap_mountain>5</ap_mountain>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>39</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner
+gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
+		<resistance_fear>15</resistance_fear>
+		<resistance_suppression>15</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>40</uiIndex>
+		<szName>Muttersöhnchen</szName>
+		<szShortName>Muttersöhnchen</szShortName>
+		<szDescription>Deine Kindheit hat deutliche persönliche Spuren hinterlassen, die bis heute
+nicht verarbeitet sind.</szDescription>
+		<leadership>-10</leadership>
+		<approach_recruit>-20</approach_recruit>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<spotter>10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>41</uiIndex>
+		<szName>Möchtegern-Söldner</szName>
+		<szShortName>Möchtegern-Söldn.</szShortName>
+		<szDescription>Du hast das großartige Söldnerleben gewählt:
+neue Orte sehen, neue Leute treffen und sie töten. Und dafür wirst du sogar bezahlt.</szDescription>
+		<cth_blades>5</cth_blades>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<approach_threaten>15</approach_threaten>
+		<insurance>15</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>42</uiIndex>
+		<szName>Redneck</szName>
+		<szShortName>Redneck</szShortName>
+		<szDescription>Latzhose, Stroh in den Stiefeln und der Grashalm im Mund.
+Kein stolzes Bild, aber das Leben auf dem Bauernhof ist hart.</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>43</uiIndex>
+		<szName>Psychopath</szName>
+		<szShortName>Psychopath</szShortName>
+		<szDescription>Es gibt unterschiedliche Berichte darüber, wie du es geschafft hast, aus dem Knast zu kommen, 
+aber alle sind sich einig - du solltest zurückgehen.</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<capitulation>-13</capitulation>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>44</uiIndex>
+		<szName>Waffenhändler</szName>
+		<szShortName>Waffenhändler</szShortName>
+		<szDescription>Die in jahrelangem Waffenhandel erworbene Erfahrung beschert dir bessere Angebote 
+beim Kauf und Verkauf von Waffen.</szDescription>
+		<betterprices_guns>10</betterprices_guns>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>45</uiIndex>
+		<szName>Akademiker</szName>
+		<szShortName>Akademiker</szShortName>
+		<szDescription>Das meiste Wissen stammt aus Büchern und Berichten aus zweiter Hand - 
+und es hat dich nicht so gut auf die düstere Realität des Krieges vorbereitet, wie du dachtest.</szDescription>
+		<wisdom>5</wisdom>
+		<resistance_fear>-5</resistance_fear>
+		<resistance_suppression>-15</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>46</uiIndex>
+		<szName>Drogensüchtiger</szName>
+		<szShortName>Drogenabhängiger</szShortName>
+		<szDescription>In Anbetracht der Art der heutigen Drogen können Süchtige furchterregende, 
+aber unzuverlässige Gegner sein.</szDescription>
+		<druguse>1</druguse>
+		<scrounging>1</scrounging>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>47</uiIndex>
+		<szName>Drogensüchtiger</szName>
+		<szShortName>Drogenabhängiger</szShortName>
+		<szDescription>Das... das ist es! Jetzt verstehe ich! HÖRT IHR? ICH HAB'S KAPIERT!</szDescription>
+		<meleedamage>10</meleedamage>
+		<cth_blades>10</cth_blades>
+		<approach_threaten>20</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<druguse>1</druguse>
+		<scrounging>1</scrounging>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>48</uiIndex>
+		<szName>Abgelehnter Armeekadett</szName>
+		<szShortName>Armeekadett</szShortName>
+		<szDescription>Von der Militärakademie geflogen - aber noch lange nicht am Ende.</szDescription>
+		<prisonguard>20</prisonguard>
+		<sleep>-1</sleep>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>49</uiIndex>
+		<szName>Punk</szName>
+		<szShortName>Punk</szShortName>
+		<szDescription>Jahre im Großstadtdschungel haben durchaus ihre Vorteile.</szDescription>
+		<ap_urban>5</ap_urban>
+		<resistance_poison>15</resistance_poison>
+		<speed_run>10</speed_run>
+		<meleedamage>2</meleedamage>
+		<cth_blades>2</cth_blades>
+		<approach_recruit>-15</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>50</uiIndex>
+		<szName>Gefängniswärter</szName>
+		<szShortName>Gefängniswärter</szShortName>
+		<szDescription>Sieh dir diesen Kerl an. Und jetzt dich. Immer noch Lust auf einen Fluchtversuch?</szDescription>
+		<prisonguard>300</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>51</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>52</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>53</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>54</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>55</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>56</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>57</uiIndex>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Die letzte Hoffnung seines unterdrückten Volkes: Miguel IST die Revolution.</szDescription>
+		<ap_urban>2</ap_urban>
+		<leadership>10</leadership>
+		<capitulation>12</capitulation>
+		<travel_foot>5</travel_foot>
+		<approach_recruit>15</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>58</uiIndex>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Als Miguels rechte Hand hält Carlos die Männer auf Linie.</szDescription>
+		<ap_urban>2</ap_urban>
+		<leadership>4</leadership>
+		<resistance_alcohol>6</resistance_alcohol>
+		<travel_foot>5</travel_foot>
+		<approach_threaten>10</approach_threaten>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>59</uiIndex>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Vom Helfer zum Rebellen: Ira tut alles, um die Rebellen am Leben zu halten.</szDescription>
+		<ap_urban>2</ap_urban>
+		<medical>4</medical>
+		<travel_foot>5</travel_foot>
+		<speed_bandaging>9</speed_bandaging>
+		<food>-10</food>
+		<approach_friendly>5</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>60</uiIndex>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Man könnte ihn für einfältig halten, doch dass Dimitri all die Jahre überlebt hat, beweist seine Zähigkeit.</szDescription>
+		<ap_urban>2</ap_urban>
+		<dexterity>4</dexterity>
+		<travel_foot>5</travel_foot>
+		<speed_bandaging>7</speed_bandaging>
+		<cth_blades>3</cth_blades>
+		<food>-10</food>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>61</uiIndex>
+		<szName>IRA-Bombenexperte</szName>
+		<szShortName>IRA-Bombenexperte</szShortName>
+		<szDescription>Früher baute Devin Bomben für die IRA. Inzwischen
+erwägt er, seine Sprengsätze auch anderen Kunden anzubieten.</szDescription>
+		<resistance_alcohol>5</resistance_alcohol>
+		<stealth>4</stealth>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>62</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>63</uiIndex>
+		<szName>Metaviranischer Ureinwohner</szName>
+		<szShortName>Metavira</szShortName>
+		<szDescription>Die Ureinwohner Metaviras haben sich an den feindseligen Dschungel angepasst.
+Nach der Befreiung schlossen sich einige den Fremden an und suchten anderswo ihr Glück.</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>64</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Keiner gibt es zu, doch dieselben Regierungen, die ihn jagen, haben ihn einst bezahlt.</szDescription>
+		<ap_height>3</ap_height>
+		<increased_maxcth>2</increased_maxcth>
+		<approach_friendly>-15</approach_friendly>
+		<approach_recruit>-10</approach_recruit>
+		<insurance>40</insurance>
+		<spotter>15</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>65</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>66</uiIndex>
+		<szName>Gefangener</szName>
+		<szShortName>Gefangener</szShortName>
+		<szDescription>Gefangenschaft und Folter durch das Regime haben dich
+fürs Leben gezeichnet. Den Tod fürchtest du nicht mehr - dafür andere Dinge.</szDescription>
+		<resistance_fear>20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<carrystrength>-10</carrystrength>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep>
+		<hearing_night>3</hearing_night>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>67</uiIndex>
+		<szName>Gefangener</szName>
+		<szShortName>Gefangener</szShortName>
+		<szDescription>Gefangenschaft und Folter durch das Regime haben dich
+fürs Leben gezeichnet. Den Tod fürchtest du nicht mehr - dafür andere Dinge.</szDescription>
+		<resistance_fear>20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep>
+		<hearing_night>3</hearing_night>
+		<druguse>1</druguse>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>68</uiIndex>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote-Armee-Major</szShortName>
+		<szDescription>Als Veteran internationaler Konflikte kämpfte Iggy zunächst auf der
+falschen Seite - bis er sich der Rebellion anschloss.</szDescription>
+		<ap_polar>2</ap_polar>
+		<ap_mountain>3</ap_mountain>
+		<ap_artillery>-8</ap_artillery>
+		<resistance_suppression>7</resistance_suppression>
+		<resistance_alcohol>10</resistance_alcohol>
+		<carrystrength>4</carrystrength>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>69</uiIndex>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Vom täglichen Leid frustriert, hat Vince beschlossen,
+aktiver gegen die Königin vorzugehen.</szDescription>
+		<medical>5</medical>
+		<marksmanship>2</marksmanship>
+		<betterprices>3</betterprices>
+		<speed_bandaging>12</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>70</uiIndex>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss
+diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>71</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>72</uiIndex>
+		<szName>Psychopath</szName>
+		<szShortName>Psychopath</szShortName>
+		<szDescription>Nicht ganz normal, nicht ganz verrückt - dein Leben steht am Scheideweg.</szDescription>
+		<ap_inventory>-5</ap_inventory>
+		<travel_car>4</travel_car>
+		<resistance_alcohol>5</resistance_alcohol>
+		<betterprices>2</betterprices>
+		<speed_run>3</speed_run>
+		<carrystrength>3</carrystrength>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>73</uiIndex>
+		<szName>Redneck</szName>
+		<szShortName>Redneck</szShortName>
+		<szDescription>Latzhose, Stroh in den Stiefeln und der Grashalm im Mund.
+Kein stolzes Bild, aber das Leben auf dem Bauernhof ist hart.</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>74</uiIndex>
+		<szName>Schmied</szName>
+		<szShortName>Schmied</szShortName>
+		<szDescription>In einem Kriegsgebiet ohne jeden Komfort sind Leute Gold wert, die
+deine Ausrüstung in Schuss halten können.</szDescription>
+		<mechanical>8</mechanical>
+		<betterprices>2</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>75</uiIndex>
+		<szName>Böse Königin</szName>
+		<szShortName>Böse Königin</szShortName>
+		<szDescription>Das Leben als böse Herrscherin eines kleinen Landes fördert offenbar
+erstaunliche Überlebensfähigkeiten.</szDescription>
+		<resistance_physical>10</resistance_physical>
+		<approach_threaten>30</approach_threaten>
+		<insurance>200</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>76</uiIndex>
+		<szName>Großmutter</szName>
+		<szShortName>Großmutter</szShortName>
+		<szDescription>Alte Leute. Die scheinen einfach nie zu schlafen.</szDescription>
+		<sleep>-1</sleep>
+		<hearing_day>-3</hearing_day>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>77</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>78</uiIndex>
+		<szName>Kopfgeldjäger</szName>
+		<szShortName>Kopfgeldjäger</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>79</uiIndex>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen - 
+was will ein potenzieller Arbeitgeber mehr?</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>5</strength>
+		<resistance_physical>10</resistance_physical>
+		<interrogation>20</interrogation>
+		<meleedamage>4</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>80</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>81</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>82</uiIndex>
+		<szName>Terrorist</szName>
+		<szShortName>Terrorist</szShortName>
+		<szDescription>Berüchtigter Massenmörder? Wahnsinniger Verbrecher? Die sind doch nur neidisch.</szDescription>
+		<marksmanship>5</marksmanship>
+		<ap_assault>6</ap_assault>
+		<resistance_suppression>15</resistance_suppression>
+		<resistance_physical>5</resistance_physical>
+		<approach_threaten>10</approach_threaten>
+		<xenophobic>1</xenophobic>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>83</uiIndex>
+		<szName>Terrorist</szName>
+		<szShortName>Terrorist</szShortName>
+		<szDescription>Von Interpol gesucht, wissen Terroristen, wie man unerkannt im Untergrund lebt.</szDescription>
+		<ap_assault>6</ap_assault>
+		<resistance_physical>10</resistance_physical>
+		<speed_run>10</speed_run>
+		<cth_blades>10</cth_blades>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>84</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>85</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>86</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>87</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>88</uiIndex>
+		<szName>Sexsklavin</szName>
+		<szShortName>Sexsklavin</szShortName>
+		<szDescription>Das willst du nicht wissen.</szDescription>
+		<resistance_physical>5</resistance_physical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>89</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>90</uiIndex>
+		<szName>Teenager</szName>
+		<szShortName>Teenager</szShortName>
+		<szDescription>So viel Teenagerfrust.</szDescription>
+		<resistance_poison>-10</resistance_poison>
+		<resistance_alcohol>-10</resistance_alcohol>
+		<carrystrength>-20</carrystrength>
+		<capitulation>-20</capitulation>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>91</uiIndex>
+		<szName>Waffenhändler</szName>
+		<szShortName>Waffenhändler</szShortName>
+		<szDescription>Du kennst das Risiko, Waffen an beide Seiten zu verkaufen.
+Aber die Gewinnspanne ist einfach zu gut.</szDescription>
+		<betterprices_guns>10</betterprices_guns>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>92</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<resistance_alcohol>10</resistance_alcohol>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>93</uiIndex>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das
+Töten ist hoffentlich neu für sie.</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<resistance_fear>10</resistance_fear>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>94</uiIndex>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen - 
+was will ein potenzieller Arbeitgeber mehr?</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>1</strength>
+		<resistance_physical>3</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>95</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>96</uiIndex>
+		<szName>Großwildjäger</szName>
+		<szShortName>Großwildjäger</szShortName>
+		<szDescription>Er reist in unberührte Gebiete, sucht nach faszinierenden Arten 
+und tötet sie ALLE.</szDescription>
+		<ap_desert>1</ap_desert>
+		<ap_swamp>2</ap_swamp>
+		<ap_urban>-3</ap_urban>
+		<ap_tropical>3</ap_tropical>
+		<travel_foot>3</travel_foot>
+		<resistance_poison>15</resistance_poison>
+		<resistance_alcohol>20</resistance_alcohol>
+		<carrystrength>4</carrystrength>
+		<stealth>6</stealth>
+		<cth_vs_creatures>15</cth_vs_creatures>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>97</uiIndex>
+		<szName>Pilot</szName>
+		<szShortName>Pilot</szShortName>
+		<szDescription>Manche Piloten, die über lange Zeiträume hinweg an körperliche Belastungen gewöhnt sind, 
+finden den Übergang zum Bodenkampf erstaunlich leicht.</szDescription>
+		<mechanical>3</mechanical>
+		<travel_air>10</travel_air>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>98</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>99</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>100</uiIndex>
+		<szName>Priester</szName>
+		<szShortName>Priester</szShortName>
+		<szDescription>Viele Anhänger von Religionen oder Sekten sind erstaunlich gewalttätig
+und eifrig, wenn sie in die richtige (oder falsche) Richtung gedrängt werden.</szDescription>
+		<resistance_alcohol>20</resistance_alcohol>
+		<approach_recruit>20</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>101</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>102</uiIndex>
+		<szName>Gesetzeshüter</szName>
+		<szShortName>Gesetzeshüter</szShortName>
+		<szDescription>Ehemalige Strafverfolgungsbeamte suchen oft Arbeit in der Söldnerwelt 
+und sind die logische Wahl für den Umgang mit Gefangenen.</szDescription>
+		<interrogation>150</interrogation>
+		<prisonguard>50</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>103</uiIndex>
+		<szName>Gefangener</szName>
+		<szShortName>Gefangener</szShortName>
+		<szDescription>Gefangenschaft und Folter durch das Regime haben dich
+fürs Leben gezeichnet. Den Tod fürchtest du nicht mehr - dafür andere Dinge.</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep>
+		<hearing_night>3</hearing_night>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>104</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>105</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>106</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>107</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>108</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>109</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>110</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Leg dich mit ihm an, und du legst dich mit der ganzen Familie an...</szDescription>
+		<betterprices_guns>4</betterprices_guns>
+		<capitulation>4</capitulation>
+		<cth_blades>3</cth_blades>
+		<approach_threaten>10</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>111</uiIndex>
+		<szName>Paramilitär</szName>
+		<szShortName>Paramilitär</szShortName>
+		<szDescription>Paranoid, ignorant, faschistisch - ja, genau du bist gemeint.</szDescription>
+		<leadership>6</leadership>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>112</uiIndex>
+		<szName>Terrorist</szName>
+		<szShortName>Terrorist</szShortName>
+		<szDescription>Von Interpol gesucht, wissen Terroristen, wie man unerkannt im Untergrund lebt.</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>113</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>114</uiIndex>
+		<szName>Kind</szName>
+		<szShortName>Kind</szShortName>
+		<szDescription>Und da verabschiedet sich die Genfer Konvention...</szDescription>
+		<resistance_poison>-20</resistance_poison>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<resistance_physical>-20</resistance_physical>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<speed_run>-20</speed_run>
+		<carrystrength>-50</carrystrength>
+		<capitulation>-50</capitulation>
+		<sleep>1</sleep>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>115</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>116</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>117</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>118</uiIndex>
+		<szName>Tourist</szName>
+		<szShortName>Tourist</szShortName>
+		<szDescription>Könnten Sie bitte ein Foto machen?</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>119</uiIndex>
+		<szName>Tourist</szName>
+		<szShortName>Tourist</szShortName>
+		<szDescription>Könnten Sie bitte ein Foto machen?</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>120</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>121</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>122</uiIndex>
+		<szName>Oberschicht-Trottel</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>123</uiIndex>
+		<szName>Platzhalter</szName>
+		<szName>B-Movie Star</szName>
+		<szShortName>B-Movie-Star</szShortName>
+		<szDescription>Ziel fliegenden Popcorns in Kinos weltweit, von Kritikern verspottet,
+aber von treuen Fans heiß geliebt.</szDescription>
+		<approach_friendly>20</approach_friendly>
+		<capitulation>5</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>124</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>125</uiIndex>
+		<szName>Apotheker</szName>
+		<szShortName>Apotheker</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<medical>10</medical>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>126</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<mechanical>7</mechanical>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>127</uiIndex>
+		<szName>Veteran des 2. Weltkriegs</szName>
+		<szShortName>Veteran</szShortName>
+		<szDescription>In seinen besten Jahren hätte er euch Jungspunde alle alt aussehen lassen.</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>128</uiIndex>
+		<szName>Schmied</szName>
+		<szShortName>Schmied</szShortName>
+		<szDescription>In einem Kriegsgebiet ohne jeden Komfort sind Leute Gold wert, die
+deine Ausrüstung in Schuss halten können.</szDescription>
+		<mechanical>8</mechanical>
+		<betterprices>2</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>129</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<resistance_suppression>-20</resistance_suppression>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>130</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>131</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>132</uiIndex>
+		<szName>Krankenschwester</szName>
+		<szShortName>Krankenschwester</szShortName>
+		<szDescription>Auch wenn sie keine Ärzte sind, werden Krankenschwestern und
+Pfleger in Kriegsgebieten dringend gebraucht.</szDescription>
+		<medical>7</medical>
+		<speed_bandaging>20</speed_bandaging>
+		<approach_friendly>10</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>133</uiIndex>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das
+Töten ist hoffentlich neu für sie.</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>134</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>135</uiIndex>
+		<szName>Prügelknabe</szName>
+		<szShortName>Prügelknabe</szShortName>
+		<szDescription>Man sollte meinen, ständige Schikanen und Spott brächten dich irgendwann dazu,
+deine Lebensentscheidungen zu überdenken. Fehlanzeige.</szDescription>
+		<resistance_physical>20</resistance_physical>
+		<resistance_fear>10</resistance_fear>
+		<leadership>-10</leadership>
+		<approach_threaten>-50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>136</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>137</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>138</uiIndex>
+		<szName>Hubschraubermechaniker</szName>
+		<szShortName>Mechaniker</szShortName>
+		<szDescription>Der beste - und vermutlich einzige - Hubschraubermechaniker in Arulco.</szDescription>
+		<mechanical>8</mechanical>
+		<travel_air>5</travel_air>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>139</uiIndex>
+		<szName>Fabrikbesitzer</szName>
+		<szShortName>Fabrikbesitzer</szShortName>
+		<szDescription>Eine persönliche Freundin Deidrannas und skrupellose Ausbeuterin. Wie hast du es geschafft, sie anzuwerben?</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>140</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>141</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>142</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>143</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>144</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>145</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>146</uiIndex>
+		<szName>Akademiker</szName>
+		<szShortName>Akademiker</szShortName>
+		<szDescription>Das meiste Wissen stammt aus Büchern und Berichten aus zweiter Hand - 
+und es hat dich nicht so gut auf die düstere Realität des Krieges vorbereitet, wie du dachtest.</szDescription>
+		<wisdom>5</wisdom>
+		<resistance_fear>-5</resistance_fear>
+		<resistance_suppression>-15</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>147</uiIndex>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
+		<betterprices_guns>5</betterprices_guns>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>148</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>149</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner
+gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<resistance_physical>7</resistance_physical>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>150</uiIndex>
+		<szName>Redneck</szName>
+		<szShortName>Redneck</szShortName>
+		<szDescription>Latzhose, Stroh in den Stiefeln und der Grashalm im Mund.
+Kein stolzes Bild, aber das Leben auf dem Bauernhof ist hart.</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>151</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>152</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>153</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>154</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>155</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>156</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>157</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>158</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>159</uiIndex>
+		<szName>Technikgenie</szName>
+		<szShortName>Technikgenie</szShortName>
+		<szDescription>Ganz gleich, ob es sich um einen dreißig Jahre alten Schrott oder das neueste elektronische Gerät handelt, 
+ein Technikgenie kann es mit geschlossenen Augen neu verkabeln und zusammenbauen.</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>160</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>161</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>162</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>163</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>164</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>165</uiIndex>
+		<szName>UN-Blauhelm</szName>
+		<szShortName>UN-Blauhelm</szShortName>
+		<szDescription>Nationen der ganzen Welt stellen diese Truppen zur Verfügung, um alle Konflikte gewaltfrei zu lösen. 
+Leider ist diese Behauptung falsch.</szDescription>
+		<capitulation>14</capitulation>
+		<speed_bandaging>10</speed_bandaging>
+		<approach_friendly>4</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>166</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner
+gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>167</uiIndex>
+		<szName>B-Movie-Star</szName>
+		<szShortName>B-Movie-Star</szShortName>
+		<szDescription>Ziel fliegenden Popcorns in Kinos weltweit, von Kritikern verspottet,
+aber von treuen Fans heiß geliebt.</szDescription>
+		<approach_friendly>20</approach_friendly>
+		<camo>10</camo>
+		<capitulation>5</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>168</uiIndex>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Veteran</szShortName>
+		<szDescription>Du warst schon berühmt in diesem Geschäft, bevor diese jungen Leute überhaupt geboren waren. 
+Nach jahrelangen Kämpfen gibt es kaum noch etwas, das dich erschüttern kann.</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>169</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>170</uiIndex>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote-Armee-Major</szShortName>
+		<szDescription>Mit russischem Stoizismus setzte sich die Rote Armee gegen Hitler, 
+Väterchen Frost und chronischen Mangel durch.</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>171</uiIndex>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote-Armee-Major</szShortName>
+		<szDescription>Mit russischem Stoizismus setzte sich die Rote Armee gegen Hitler, 
+Väterchen Frost und chronischen Mangel durch.</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>172</uiIndex>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote-Armee-Major</szShortName>
+		<szDescription>Mit russischem Stoizismus setzte sich die Rote Armee gegen Hitler, 
+Väterchen Frost und chronischen Mangel durch.</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>173</uiIndex>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss
+diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>174</uiIndex>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das
+Töten ist hoffentlich neu für sie.</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>175</uiIndex>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es wieder zusammenzunähen
+ist eine Aufgabe für die Besten!</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>176</uiIndex>
+		<szName>Zirkusartist</szName>
+		<szShortName>Zirkusartist</szShortName>
+		<szDescription>Hoffen wir mal, dass du Kugeln genauso gut ausweichen kannst wie
+Messern, während du an einem Brett gefesselt bist.</szDescription>
+		<agility>3</agility>
+		<dexterity>3</dexterity>
+		<cth_blades>4</cth_blades>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>177</uiIndex>
+		<szName>GSG9</szName>
+		<szShortName>GSG9</szShortName>
+		<szDescription>Nach dem verheerenden Münchner Olympia-Attentat 1972 gegründet,
+ist die GSG9 eine Anti-Terror-Einheit.</szDescription>
+		<ap_urban>2</ap_urban>
+		<interrogation>50</interrogation>
+		<prisonguard>37</prisonguard>
+		<capitulation>8</capitulation>
+		<breachingcharge>80</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>178</uiIndex>
+		<szName>SOG-Mitglied</szName>
+		<szShortName>SOG</szShortName>
+		<szDescription>Die Studies and Observations Group war eine geheime Spezialeinheit
+für unkonventionelle Kriegsführung in Vietnam.</szDescription>
+		<ap_swamp>2</ap_swamp>
+		<ap_tropical>4</ap_tropical>
+		<cth_blades>3</cth_blades>
+		<camo>5</camo>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>179</uiIndex>
+		<szName>Psychopath</szName>
+		<szShortName>Psychopath</szShortName>
+		<szDescription>Es gibt unterschiedliche Berichte darüber, wie du es geschafft hast, aus dem Knast zu kommen, 
+aber alle sind sich einig - du solltest zurückgehen.</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>180</uiIndex>
+		<szName>Spitzel</szName>
+		<szShortName>Spitzel</szShortName>
+		<szDescription>Du weißt alles über deine Teamkameraden - ob sie das wollen oder nicht.</szDescription>
+		<ap_inventory>-5</ap_inventory>
+		<hearing_night>1</hearing_night>
+		<hearing_day>1</hearing_day>
+		<spotter>10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>181</uiIndex>
+		<szName>Ringer</szName>
+		<szShortName>Ringer</szShortName>
+		<szDescription>Es mag mehr ein Spektakel als ein echter Kampf sein, aber sich durch einen Ring werfen zu lassen, 
+ohne sich das Genick zu brechen, erfordert immer noch eine Menge Geschick.</szDescription>
+		<resistance_physical>10</resistance_physical>
+		<carrystrength>25</carrystrength>
+		<speed_run>5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>182</uiIndex>
+		<szName>Erfahrener Arzt</szName>
+		<szShortName>Erfahrener Arzt</szShortName>
+		<szDescription>Jahrelang Menschenleben zu beurteilen hat ausgerechnet deine
+eigene Gesundheit ruiniert. Billige Zigaretten und starker Kaffee forderten
+ihren Tribut - und dein kalter Umgang mit Patienten macht dich auch nicht beliebter.</szDescription>
+		<agility>-7</agility>
+		<medical>10</medical>
+		<speed_bandaging>10</speed_bandaging>
+		<speed_run>-10</speed_run>
+		<approach_friendly>-5</approach_friendly>
+		<approach_threaten>10</approach_threaten>
+		<resistance_poison>20</resistance_poison>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>183</uiIndex>
+		<szName>Leichenbestatter</szName>
+		<szShortName>Leichenbestatter</szShortName>
+		<szDescription>Wenn du alles gesehen hast, kann dich nichts mehr erschrecken.</szDescription>
+		<ap_fortify>-5</ap_fortify>
+		<resistance_fear>15</resistance_fear>
+		<approach_friendly>7</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>184</uiIndex>
+		<szName>Schlechter Schütze</szName>
+		<szShortName>Mieser Schütze</szShortName>
+		<szDescription>Wegen extremer Kurzsichtigkeit ist Wally ein miserabler Schütze
+mit praktisch keiner Aussicht auf Besserung.</szDescription>
+		<marksmanship>-10</marksmanship>
+		<increased_maxcth>-5</increased_maxcth>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>185</uiIndex>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es wieder zusammenzunähen
+ist eine Aufgabe für die Besten!</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>186</uiIndex>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Ein vielseitiger, gut ausgebildeter Arzt kann Leben retten - egal, ob sein Patient
+sich einen Virus oder eine Kugel eingefangen hat.</szDescription>
+		<medical>10</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>187</uiIndex>
+		<szName>Büroangestellter</szName>
+		<szShortName>Büroangestellter</szShortName>
+		<szDescription>Klimaanlage, wässriger Kaffee und Papierkram -
+was kann man vom Leben noch erwarten?</szDescription>
+		<approach_direct>5</approach_direct>
+		<resistance_suppression>-10</resistance_suppression>
+		<ap_urban>2</ap_urban>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_tropical>-5</ap_tropical>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>188</uiIndex>
+		<szName>Absolvent</szName>
+		<szShortName>Absolvent</szShortName>
+		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, ist es an der Zeit 
+sich endlich eine Existenz aufzubauen.</szDescription>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>189</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>190</uiIndex>
+		<szName>Baseballspieler</szName>
+		<szShortName>Athlet</szShortName>
+		<szDescription>Wenn dein Team jemanden braucht, der Granaten präzise über ein freies Feld wirft,
+bist du der richtige Mann.</szDescription>
+		<agility>2</agility>
+		<strength>2</strength>
+		<dexterity>3</dexterity>
+		<meleedamage>4</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>191</uiIndex>
+		<szName>Technikgenie</szName>
+		<szShortName>Technikgenie</szShortName>
+		<szDescription>Ganz gleich, ob es sich um einen dreißig Jahre alten Schrott oder das neueste elektronische Gerät handelt, 
+ein Technikgenie kann es mit geschlossenen Augen neu verkabeln und zusammenbauen.</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>192</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>193</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>194</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>195</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>196</uiIndex>
+		<szName>Metaviranischer Ureinwohner</szName>
+		<szShortName>Metavira</szShortName>
+		<szDescription>Die Ureinwohner Metaviras haben sich an den feindseligen Dschungel angepasst.
+Nach der Befreiung schlossen sich einige den Fremden an und suchten anderswo ihr Glück.</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>197</uiIndex>
+		<szName>Metaviranischer Ureinwohner</szName>
+		<szShortName>Metavira</szShortName>
+		<szDescription>Die Ureinwohner Metaviras haben sich an den feindseligen Dschungel angepasst.
+Nach der Befreiung schlossen sich einige den Fremden an und suchten anderswo ihr Glück.</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>198</uiIndex>
+		<szName>Metaviranischer Schamane</szName>
+		<szShortName>Schamane</szShortName>
+		<szDescription>Seit undenklichen Zeiten führen Schamanen ihre Gemeinschaften und besitzen
+medizinisches Wissen, das westlichen Augen fremd ist.</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<medical>10</medical>
+		<resistance_poison>17</resistance_poison>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>199</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>200</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>201</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>202</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>203</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>204</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>205</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>206</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>207</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>208</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>209</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>210</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>211</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>212</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>213</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>214</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>215</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>216</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>217</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>218</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>219</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>220</uiIndex>
+		<szName>Büroangestellter</szName>
+		<szShortName>Büroangestellter</szShortName>
+		<szDescription>Klimaanlage, wässriger Kaffee und Papierkram -
+was kann man vom Leben noch erwarten?</szDescription>
+		<approach_direct>5</approach_direct>
+		<resistance_suppression>-10</resistance_suppression>
+		<ap_urban>2</ap_urban>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_tropical>-5</ap_tropical>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>221</uiIndex>
+		<szName>Psychopath</szName>
+		<szShortName>Psychopath</szShortName>
+		<szDescription>Es gibt unterschiedliche Berichte darüber, wie du es geschafft hast, aus dem Knast zu kommen, 
+aber alle sind sich einig - du solltest zurückgehen.</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>222</uiIndex>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Veteran</szShortName>
+		<szDescription>Du warst schon berühmt in diesem Geschäft, bevor diese jungen Leute überhaupt geboren waren. 
+Nach jahrelangen Kämpfen gibt es kaum noch etwas, das dich erschüttern kann.</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>223</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>224</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>225</uiIndex>
+		<szName>Krankenschwester</szName>
+		<szShortName>Krankenschwester</szShortName>
+		<szDescription>Auch wenn sie keine Ärzte sind, werden Krankenschwestern und
+Pfleger in Kriegsgebieten dringend gebraucht.</szDescription>
+		<speed_bandaging>20</speed_bandaging>
+		<medical>7</medical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>226</uiIndex>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Veteran</szShortName>
+		<szDescription>Du warst schon berühmt in diesem Geschäft, bevor diese jungen Leute überhaupt geboren waren. 
+Nach jahrelangen Kämpfen gibt es kaum noch etwas, das dich erschüttern kann.</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>227</uiIndex>
+		<szName>Hypochonder</szName>
+		<szShortName>Hypochonder</szShortName>
+		<szDescription>Betrittst du eine Station, wirkt das Personal plötzlich
+furchtbar beschäftigt oder versteckt sich. Die
+Liste deiner angeblichen Leiden wird derweil immer länger!</szDescription>
+		<medical>3</medical>
+		<resistance_poison>10</resistance_poison>
+		<resistance_fear>-10</resistance_fear>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>228</uiIndex>
+		<szName>Feldsanitäter</szName>
+		<szShortName>Feldsanitäter</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es unter Beschuss wieder zusammenzunähen,
+ist eine Aufgabe für die Besten!</szDescription>
+		<medical>5</medical>
+		<dexterity>5</dexterity>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_bandaging>10</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>229</uiIndex>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Von allen abgeschnitten ist Manuel ein geborener Überlebenskünstler.</szDescription>
+		<ap_swamp>4</ap_swamp>
+		<ap_river>4</ap_river>
+		<travel_foot>7</travel_foot>
+		<speed_bandaging>7</speed_bandaging>
+		<food>-10</food>
+		<water>-10</water>
+		<approach_direct>5</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>230</uiIndex>
+		<szName>Automechaniker</szName>
+		<szShortName>Automechaniker</szShortName>
+		<szDescription>Sehr nützlich - solange du auch ein Auto HAST.</szDescription>
+		<mechanical>6</mechanical>
+		<travel_car>10</travel_car>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>231</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber
+leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
+		<camo>10</camo>
+		<stealth>5</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>232</uiIndex>
+		<szName>UN-Blauhelm</szName>
+		<szShortName>UN-Blauhelm</szShortName>
+		<szDescription>Spam war frustriert, weil ein fehlendes klares Mandat ihn zum Nichtstun zwang.
+Immerhin ist er es gewohnt, beschossen zu werden.</szDescription>
+		<resistance_suppression>16</resistance_suppression>
+		<capitulation>10</capitulation>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>233</uiIndex>
+		<szName>Ranger</szName>
+		<szShortName>Ranger</szShortName>
+		<szDescription>Die Rangers bilden die Elite der US-Armee-Infanterie.</szDescription>
+		<ap_assault>4</ap_assault>
+		<marksmanship>2</marksmanship>
+		<resistance_suppression>8</resistance_suppression>
+		<travel_foot>5</travel_foot>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>234</uiIndex>
+		<szName>Sträfling</szName>
+		<szShortName>Sträfling</szShortName>
+		<szDescription>Wer in einem unbarmherzigen Gefängnis überlebt, wird
+nach der Entlassung noch gefährlicher sein.</szDescription>
+		<resistance_poison>5</resistance_poison>
+		<resistance_physical>2</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>235</uiIndex>
+		<szName>Sportschütze</szName>
+		<szShortName>Sportschütze</szShortName>
+		<szDescription>Manche Menschen haben ein Händchen fürs Schießen und eine beunruhigende Aggression 
+gegen unschuldige Papierziele.</szDescription>
+		<marksmanship>3</marksmanship>
+		<increased_maxcth>1</increased_maxcth>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>236</uiIndex>
+		<szName>Luftwaffenpilot</szName>
+		<szShortName>Luftwaffenpilot</szShortName>
+		<szDescription>Bob kennt angespannte Situationen nur zu gut - und lässt das auch andere spüren.</szDescription>
+		<mechanical>3</mechanical>
+		<travel_air>10</travel_air>
+		<resistance_fear>10</resistance_fear>
+		<xenophobic>1</xenophobic>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>237</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner
+gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>3</ap_mountain>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>238</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
+		<ap_polar>-5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_urban>8</ap_urban>
+		<ap_river>-5</ap_river>
+		<ap_coastal>-5</ap_coastal>
+		<ap_tropical>-5</ap_tropical>
+		<ap_mountain>-5</ap_mountain>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>239</uiIndex>
+		<szName>Erfahrener Bombenbauer</szName>
+		<szShortName>Bombenbauer</szShortName>
+		<szDescription>Du sorgst dafür, dass Dinge BOOM machen!</szDescription>
+		<wisdom>-10</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>240</uiIndex>
+		<szName>Anwalt</szName>
+		<szShortName>Anwalt</szShortName>
+		<szDescription>Ein etwas unorthodoxer Hintergrund für einen Söldner, aber ehemalige Anwälte können nützlich sein, 
+wenn es um einen Deal auf Messers Schneide geht.</szDescription>
+		<capitulation>20</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>241</uiIndex>
+		<szName>Pyrotechniker</szName>
+		<szShortName>Pyrotechniker</szShortName>
+		<szDescription>Wenn du die Moral des Feindes brechen willst, indem du sein Klo sprengst,
+brauchst du einen qualifizierten Pyrotechniker.</szDescription>
+		<explosives>5</explosives>
+		<breachingcharge>50</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>242</uiIndex>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es wieder zusammenzunähen
+ist eine Aufgabe für die Besten!</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>243</uiIndex>
+		<szName>Büchsenmacher</szName>
+		<szShortName>Büchsenmacher</szShortName>
+		<szDescription>Als Experte für Technik und Geschichte von Feuerwaffen ist das seltsame Waffenarsenal
+der Armee für diesen Mann ein wahr gewordener Traum.</szDescription>
+		<mechanical>10</mechanical>
+		<betterprices_guns>5</betterprices_guns>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>244</uiIndex>
+		<szName>Watergate-Einbrecher</szName>
+		<szShortName>Watergate</szShortName>
+		<szDescription>Nun, das lief nicht ganz nach Plan.</szDescription>
+		<approach_recruit>-10</approach_recruit>
+		<hearing_night>1</hearing_night>
+		<stealth>5</stealth>
+		<resistance_poison>5</resistance_poison>
+		<resistance_physical>2</resistance_physical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>245</uiIndex>
+		<szName>Pantomime</szName>
+		<szShortName>Pantomime</szShortName>
+		<szDescription>...</szDescription>
+		<approach_direct>-15</approach_direct>
+		<approach_recruit>-15</approach_recruit>
+		<interrogation>-15</interrogation>
+		<camo>10</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>246</uiIndex>
+		<szName>Südamerikaner</szName>
+		<szShortName>Südamerikaner</szShortName>
+		<szDescription>...</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>247</uiIndex>
+		<szName>Priester</szName>
+		<szShortName>Priester</szShortName>
+		<szDescription>Viele Anhänger von Religionen oder Sekten sind erstaunlich gewalttätig
+und eifrig, wenn sie in die richtige (oder falsche) Richtung gedrängt werden.</szDescription>
+		<approach_recruit>10</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>248</uiIndex>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Ein vielseitiger, gut ausgebildeter Arzt kann Leben retten - egal, ob sein Patient
+sich einen Virus oder eine Kugel eingefangen hat.</szDescription>
+		<medical>10</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>249</uiIndex>
+		<szName>Überwachungsexperte</szName>
+		<szShortName>Überwachungsexp.</szShortName>
+		<szDescription>Experte für legale wie illegale Überwachungsmethoden. Seltsamerweise steht
+in seinem Lebenslauf nicht, wo er das alles gelernt hat.</szDescription>
+		<stealth>3</stealth>
+		<hearing_night>2</hearing_night>
+		<hearing_day>2</hearing_day>
+		<spotter>20</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>250</uiIndex>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Veteran</szShortName>
+		<szDescription>Du warst schon berühmt in diesem Geschäft, bevor diese jungen Leute überhaupt geboren waren. 
+Nach jahrelangen Kämpfen gibt es kaum noch etwas, das dich erschüttern kann.</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>251</uiIndex>
+		<szName>Pyrotechniker</szName>
+		<szShortName>Pyrotechniker</szShortName>
+		<szDescription>Wenn du die Moral des Feindes brechen willst, indem du sein Klo sprengst,
+brauchst du einen qualifizierten Pyrotechniker.</szDescription>
+		<explosives>5</explosives>
+		<breachingcharge>50</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>252</uiIndex>
+		<szName>Maskottchen</szName>
+		<szShortName>Maskottchen</szShortName>
+		<szDescription>Niemand nimmt dich ernst, weil du früher in einem albernen Kostüm herumgelaufen bist?
+Das Lächeln eines Kindes ist Entschädigung genug!</szDescription>
+		<approach_friendly>15</approach_friendly>
+		<approach_threaten>-10</approach_threaten>
+		<interrogation>-20</interrogation>
+		<water>10</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>253</uiIndex>
+		<szName>Gesetzeshüter</szName>
+		<szShortName>Gesetzeshüter</szShortName>
+		<szDescription>Hey Detektiv, hast du den Fall der verschwundenen Donuts schon
+gelöst?</szDescription>
+		<interrogation>150</interrogation>
+		<prisonguard>50</prisonguard>
+		<food>50</food>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>254</uiIndex>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>255</uiIndex>
+		<szName>Absolvent</szName>
+		<szShortName>Absolvent</szShortName>
+		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, ist es an der Zeit 
+sich endlich eine Existenz aufzubauen.</szDescription>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>256</uiIndex>
+		<szName>Waffenhändler</szName>
+		<szShortName>Waffenhändler</szShortName>
+		<szDescription>Die in jahrelangem Waffenhandel erworbene Erfahrung beschert dir bessere Angebote 
+beim Kauf und Verkauf von Waffen.</szDescription>
+		<betterprices_guns>10</betterprices_guns>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>257</uiIndex>
+		<szName>Polizeibeamter</szName>
+		<szShortName>Polizist</szShortName>
+		<szDescription>Ehemalige Strafverfolgungsbeamte suchen oft Arbeit in der Söldnerwelt 
+und sind die logische Wahl für den Umgang mit Gefangenen.</szDescription>
+		<interrogation>150</interrogation>
+		<prisonguard>50</prisonguard>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>258</uiIndex>
+		<szName>Gefängniswärter</szName>
+		<szShortName>Gefängniswärter</szShortName>
+		<szDescription>Bei längeren und größeren Konflikten sind ehemalige Gefängniswärter 
+die erste Wahl für die Leitung von Gefangenenlagern.</szDescription>
+		<prisonguard>300</prisonguard>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>259</uiIndex>
+		<szName>Bandenmitglied</szName>
+		<szShortName>Bandenmitglied</szShortName>
+		<szDescription>Für viele Bandenmitglieder ist es ein natürlicher Schritt, Söldner zu werden - der Job ist derselbe, 
+die Werkzeuge und die Bezahlung jedoch wesentlich besser.</szDescription>
+		<approach_threaten>10</approach_threaten>
+		<meleedamage>3</meleedamage>
+		<cth_blades>2</cth_blades>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>260</uiIndex>
+		<szName>Sträfling</szName>
+		<szShortName>Sträfling</szShortName>
+		<szDescription>Wer in einem unbarmherzigen Gefängnis überlebt, wird nach der Entlassung noch gefährlicher sein.</szDescription>
+		<resistance_poison>5</resistance_poison>
+		<resistance_physical>2</resistance_physical>
+		<meleedamage>2</meleedamage>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>261</uiIndex>
+		<szName>Drogensüchtiger</szName>
+		<szShortName>Drogensüchtiger</szShortName>
+		<szDescription>In Anbetracht der Art der heutigen Drogen können Süchtige furchterregende, 
+aber unzuverlässige Gegner sein.</szDescription>
+		<approach_threaten>10</approach_threaten>
+		<druguse>1</druguse>
+		<scrounging>1</scrounging>
+		<insurance>30</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>262</uiIndex>
+		<szName>Adliger</szName>
+		<szShortName>Adliger</szShortName>
+		<szDescription>Es gibt Leute, die nicht aus der Not heraus in dieses Geschäft einsteigen. Es ist zwar leicht, 
+sie als verweichlichte Aristokraten abzustempeln, aber einige sind tatsächlich recht fähig, 
+da sie die beste Ausbildung erhalten haben.</szDescription>
+		<xenophobic>1</xenophobic>
+		<marksmanship>1</marksmanship>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>263</uiIndex>
+		<szName>Anwalt</szName>
+		<szShortName>Anwalt</szShortName>
+		<szDescription>Ein etwas unorthodoxer Hintergrund für einen Söldner, aber ehemalige Anwälte können nützlich sein, 
+wenn es um einen Deal auf Messers Schneide geht.</szDescription>
+		<capitulation>20</capitulation>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>264</uiIndex>
+		<szName>Pilot</szName>
+		<szShortName>Pilot</szShortName>
+		<szDescription>Manche Piloten, die über lange Zeiträume hinweg an körperliche Belastungen gewöhnt sind, 
+finden den Übergang zum Bodenkampf erstaunlich leicht.</szDescription>
+		<mechanical>3</mechanical>
+		<travel_air>10</travel_air>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>265</uiIndex>
+		<szName>Priester</szName>
+		<szShortName>Priester</szShortName>
+		<szDescription>Viele Anhänger von Religionen oder Sekten sind erstaunlich gewalttätig 
+und eifrig, 
+wenn sie in die richtige (oder falsche) Richtung gedrängt werden.</szDescription>
+		<approach_recruit>10</approach_recruit>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>266</uiIndex>
+		<szName>Krankenpfleger</szName>
+		<szShortName>Krankenpfleger</szShortName>
+		<szDescription>Obwohl sie keine vollwertigen Ärzte sind, sind Krankenschwestern und -pfleger in Kriegsgebieten 
+aufgrund der harten Arbeit sehr gefragt.</szDescription>
+		<speed_bandaging>20</speed_bandaging>
+		<medical>7</medical>
+		<no_male>1</no_male>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>267</uiIndex>
+		<szName>Bauarbeiter</szName>
+		<szShortName>Bauarbeiter</szShortName>
+		<szDescription>Bauarbeiter sind an harte Arbeit gewöhnt und können besser Befestigungsanlagen 
+bauen als Schreibtischhelden.</szDescription>
+		<strength>6</strength>
+		<ap_fortify>-10</ap_fortify>
+		<carrystrength>8</carrystrength>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>268</uiIndex>
+		<szName>Fallschirmspringer</szName>
+		<szShortName>Fallschirmspringer</szShortName>
+		<szDescription>Wenn du schon gerne dein Leben aufs Spiel setzt, kannst du auch gleich Geld damit verdienen...</szDescription>
+		<ap_airdrop>25</ap_airdrop>
+		<insurance>40</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>269</uiIndex>
+		<szName>Feldwebel</szName>
+		<szShortName>Feldwebel</szShortName>
+		<szDescription>Die Aufgabe eines Feldwebels ist es, Armeen auszubilden und junge Männer 
+und Frauen zu traumatisieren.</szDescription>
+		<leadership>6</leadership>
+		<marksmanship>4</marksmanship>
+		<approach_threaten>10</approach_threaten>
+		<approach_recruit>-6</approach_recruit>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>270</uiIndex>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher sind gute Soldaten im Nahkampf, auch wenn der tödliche Teil (hoffentlich) nicht zum Alltag gehört.</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>271</uiIndex>
+		<szName>Auftragskiller</szName>
+		<szShortName>Auftragskiller</szShortName>
+		<szDescription>Professionelle Attentäter sind an das Töten gewöhnt, allerdings können sie mit idealistischeren 
+Teammitgliedern in Konflikt geraten.</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>272</uiIndex>
+		<szName>Bombenleger</szName>
+		<szShortName>Bombenleger</szShortName>
+		<szDescription>Ob man sie Terroristen oder Freiheitskämpfer nennt, 
+hängt oft von der Beziehung zu den Getöteten ab.</szDescription>
+		<explosives>6</explosives>
+		<breachingcharge>30</breachingcharge>
+		<traplevel>1</traplevel>
+		<insurance>40</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>273</uiIndex>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen - 
+was will ein potenzieller Arbeitgeber mehr?</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>1</strength>
+		<resistance_physical>3</resistance_physical>
+		<meleedamage>2</meleedamage>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>274</uiIndex>
+		<szName>SWAT-Mitglied</szName>
+		<szShortName>SWAT</szShortName>
+		<szDescription>SWAT-Teams, die die Grenze zwischen Polizei und Militär verwischen, werden bei städtischen 
+Operationen eingesetzt, die für die gewöhnliche Strafverfolgung zu gefährlich sind.</szDescription>
+		<ap_urban>2</ap_urban>
+		<ap_assault>2</ap_assault>
+		<interrogation>75</interrogation>
+		<prisonguard>50</prisonguard>
+		<breachingcharge>70</breachingcharge>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>275</uiIndex>
+		<szName>Barkeeper</szName>
+		<szShortName>Barkeeper</szShortName>
+		<szDescription>Ein freundliches Gesicht kann Gewalt überflüssig machen...</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>276</uiIndex>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
+		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, 
+dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>277</uiIndex>
+		<szName>Mafia</szName>
+		<szShortName>Mafia</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es ausnahmslos überall.</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>278</uiIndex>
+		<szName>UN-Blauhelm</szName>
+		<szShortName>UN-Blauhelm</szShortName>
+		<szDescription>Nationen der ganzen Welt stellen diese Truppen zur Verfügung, um alle Konflikte gewaltfrei zu lösen. 
+Leider ist diese Behauptung falsch.</szDescription>
+		<capitulation>14</capitulation>
+		<speed_bandaging>10</speed_bandaging>
+		<approach_friendly>4</approach_friendly>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>279</uiIndex>
+		<szName>Fallschirmjäger</szName>
+		<szShortName>Fallschirmjäger</szShortName>
+		<szDescription>Es erfordert Mut, aus einem Flugzeug zu springen, um sich zahlenmäßig überlegenen Gegnern zu stellen.</szDescription>
+		<ap_airdrop>20</ap_airdrop>
+		<ap_assault>2</ap_assault>
+		<resistance_fear>10</resistance_fear>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>280</uiIndex>
+		<szName>Guerillakämpfer</szName>
+		<szShortName>Guerillakämpfer</szShortName>
+		<szDescription>Du bist gut darin geschult, feindlichen Kräften auszuweichen und sie dort zu treffen, 
+wo sie es am wenigsten erwarten.</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>4</ap_tropical>
+		<camo>5</camo>
+		<traplevel>1</traplevel>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>281</uiIndex>
+		<szName>Wehrpflichtiger</szName>
+		<szShortName>Wehrpflichtiger</szShortName>
+		<szDescription>Du bist noch lange kein Profi, aber du kennst zumindest die Grundlagen.</szDescription>
+		<travel_foot>4</travel_foot>
+		<resistance_alcohol>5</resistance_alcohol>
+		<prisonguard>10</prisonguard>
+		<spotter>5</spotter>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>282</uiIndex>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu richten ist ein Anfang, aber jemand muss 
+diesen Leuten beibringen, wohin sie zielen sollen.</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>283</uiIndex>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Paramil.-Ausbilder</szShortName>
+		<szDescription>Genau wie bei den Pfadfindern. Nur eben mit Gewalt. Also eigentlich doch nicht wie bei den Pfadfindern...</szDescription>
+		<leadership>8</leadership>
+		<approach_recruit>10</approach_recruit>
+		<xenophobic>1</xenophobic>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>284</uiIndex>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote Armee</szShortName>
+		<szDescription>Mit russischem Stoizismus setzte sich die Rote Armee gegen Hitler, 
+Väterchen Frost und chronischen Mangel durch.</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>10</resistance_alcohol>
+		<drink_energyregen>7</drink_energyregen>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>285</uiIndex>
+		<szName>Leichenbestatter</szName>
+		<szShortName>Leichenbestatter</szShortName>
+		<szDescription>Wenn man alles gesehen hat, kann einen nichts mehr erschrecken.</szDescription>
+		<ap_fortify>-5</ap_fortify>
+		<resistance_fear>15</resistance_fear>
+		<approach_friendly>7</approach_friendly>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>286</uiIndex>
+		<szName>Kriegsveteran</szName>
+		<szShortName>Kriegsveteran</szShortName>
+		<szDescription>Du hast schon ein oder zwei Einsätze hinter dir und kennst dich mit Ärger aus.</szDescription>
+		<ap_assault>2</ap_assault>
+		<marksmanship>2</marksmanship>
+		<resistance_suppression>4</resistance_suppression>
+		<travel_foot>5</travel_foot>
+		<speed_run>5</speed_run>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>287</uiIndex>
+		<szName>Tuareg</szName>
+		<szShortName>Tuareg</szShortName>
+		<szDescription>Die Tuareg sind ein Berbervolk, das ein nomadisches Leben in der Sahara führt.</szDescription>
+		<ap_desert>8</ap_desert>
+		<ap_swimming>20</ap_swimming>
+		<travel_foot>5</travel_foot>
+		<food>-5</food>
+		<water>-20</water>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>288</uiIndex>
+		<szName>Feuerwehrmann</szName>
+		<szShortName>Feuerwehrmann</szShortName>
+		<szDescription>Nur weil dabei nicht geschossen wird, muss es nicht weniger gefährlich sein.</szDescription>
+		<ap_height>2</ap_height>
+		<mechanical>3</mechanical>
+		<explosives>2</explosives>
+		<travel_car>5</travel_car>
+		<resistance_fear>6</resistance_fear>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>289</uiIndex>
+		<szName>Sportschütze</szName>
+		<szShortName>Sportschütze</szShortName>
+		<szDescription>Manche Menschen haben ein Händchen fürs Schießen und eine beunruhigende Aggression 
+gegen unschuldige Papierziele.</szDescription>
+		<marksmanship>3</marksmanship>
+		<increased_maxcth>1</increased_maxcth>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>290</uiIndex>
+		<szName>Ladenbesitzer</szName>
+		<szShortName>Ladenbesitzer</szShortName>
+		<szDescription>Es gibt eben noch Menschen mit richtiger Arbeit.</szDescription>
+		<betterprices_guns>5</betterprices_guns>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>291</uiIndex>
+		<szName>Kfz-Mechaniker</szName>
+		<szShortName>Kfz-Mechaniker</szShortName>
+		<szDescription>Sehr nützlich, wenn man ein Auto hat.</szDescription>
+		<mechanical>6</mechanical>
+		<travel_car>10</travel_car>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>292</uiIndex>
+		<szName>Schmied</szName>
+		<szShortName>Schmied</szShortName>
+		<szDescription>In einem Kriegsgebiet ohne die üblichen Annehmlichkeiten ist es sehr nützlich, Leute zu haben, 
+die die Ausrüstung warten können.</szDescription>
+		<mechanical>8</mechanical>
+		<betterprices>2</betterprices>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>293</uiIndex>
+		<szName>Anti-Terror-Einheit</szName>
+		<szShortName>Anti-Terror-Einheit</szShortName>
+		<szDescription>Viele Länder setzen nicht ihre Armee ein, um mit Bedrohungen im Inneren umzugehen, 
+sondern Spezialeinheiten.</szDescription>
+		<ap_urban>2</ap_urban>
+		<interrogation>40</interrogation>
+		<prisonguard>40</prisonguard>
+		<capitulation>8</capitulation>
+		<breachingcharge>80</breachingcharge>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>294</uiIndex>
+		<szName>Büroangestellter</szName>
+		<szShortName>Büroangestellter</szShortName>
+		<szDescription>Eine Klimaanlage, verwässerter Kaffee und ein paar Zeitungen zum Schieben - 
+was kann man mehr vom Leben erwarten?</szDescription>
+		<approach_direct>5</approach_direct>
+		<resistance_suppression>-10</resistance_suppression>
+		<ap_urban>2</ap_urban>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_tropical>-5</ap_tropical>
+		<insurance>-20</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>295</uiIndex>
+		<szName>Bühnencrew</szName>
+		<szShortName>Bühnencrew</szShortName>
+		<szDescription>Knallende Geräusche, Feuerwerk, schreiende Menschen - ist es nicht seltsam, 
+wie ähnlich die Bühne dem Schlachtfeld ist?</szDescription>
+		<mechanical>3</mechanical>
+		<resistance_suppression>10</resistance_suppression>
+		<hearing_night>-3</hearing_night>
+		<hearing_day>-3</hearing_day>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>296</uiIndex>
+		<szName>Techniker</szName>
+		<szShortName>Techniker</szShortName>
+		<szDescription>Ganz gleich, ob es sich um einen dreißig Jahre alten Schrott oder das neueste elektronische Gerät handelt, 
+ein Technikgenie kann es mit geschlossenen Augen neu verkabeln und zusammenbauen.</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>297</uiIndex>
+		<szName>Hochschulabsolvent</szName>
+		<szShortName>Hochschulabsolvent</szShortName>
+		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, ist es an der Zeit 
+sich endlich eine Existenz aufzubauen.</szDescription>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>298</uiIndex>
+		<szName>Profi-Dieb</szName>
+		<szShortName>Profi-Dieb</szShortName>
+		<szDescription>Wenn man dir angeboten hat, es zu nehmen oder es zu lassen, 
+dann hast du dich immer für das "nehmen" entschieden.</szDescription>
+		<agility>3</agility>
+		<ap_inventory>-15</ap_inventory>
+		<carrystrength>7</carrystrength>
+		<stealth>5</stealth>
+		<hearing_night>1</hearing_night>
+		<breachingcharge>20</breachingcharge>
+		<scrounging>1</scrounging>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>299</uiIndex>
+		<szName>Pantomime</szName>
+		<szShortName>Pantomime</szShortName>
+		<szDescription>...</szDescription>
+		<approach_direct>-15</approach_direct>
+		<approach_recruit>-15</approach_recruit>
+		<interrogation>-15</interrogation>
+		<camo>5</camo>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>300</uiIndex>
+		<szName>B-Movie-Star</szName>
+		<szShortName>B-Movie-Star</szShortName>
+		<szDescription>Ziel von Popcornwürfen in Kinos auf der ganzen Welt, von Kritikern verhöhnt 
+doch von treuen Fans verehrt.</szDescription>
+		<approach_friendly>20</approach_friendly>
+		<camo>10</camo>
+		<capitulation>5</capitulation>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>301</uiIndex>
+		<szName>Pyrotechniker</szName>
+		<szShortName>Pyrotechniker</szShortName>
+		<szDescription>Wenn du die Moral deines Gegners brechen willst, indem du seine Toilette in die Luft jagst, 
+ist es an der Zeit, dir einen qualifizierten Pyrotechniker zu besorgen.</szDescription>
+		<explosives>5</explosives>
+		<breachingcharge>50</breachingcharge>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>302</uiIndex>
+		<szName>Pionier</szName>
+		<szShortName>Pionier</szShortName>
+		<szDescription>Ein Pionier kann in seinem Leben nur zwei Fehler machen. Der erste ist die Berufswahl.</szDescription>
+		<explosives>8</explosives>
+		<breachingcharge>20</breachingcharge>
+		<insurance>30</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>303</uiIndex>
+		<szName>Teufelskerl</szName>
+		<szShortName>Teufelskerl</szShortName>
+		<szDescription>Du bist ein imposanter Anblick auf dem Schlachtfeld und schreckst nie davor zurück, den Feind frontal anzugreifen.</szDescription>
+		<medical>3</medical>
+		<resistance_poison>10</resistance_poison>
+		<resistance_fear>-10</resistance_fear>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>304</uiIndex>
+		<szName>Redneck</szName>
+		<szShortName>Redneck</szShortName>
+		<szDescription>Als die Konföderation den Krieg verlor, zog deine Familie weiter in den Süden ... und kämpft dort weiter gegen... einfach alle.</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>305</uiIndex>
+		<szName>Stalker</szName>
+		<szShortName>Stalker</szShortName>
+		<szDescription>Unheimlich, unerbittlich und sozial behindert - es ist nur eine Frage der Zeit, bis sie dich einsperren.</szDescription>
+		<stealth>4</stealth>
+		<spotter>15</spotter>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>306</uiIndex>
+		<szName>Akademiker</szName>
+		<szShortName>Akademiker</szShortName>
+		<szDescription>Das meiste Wissen stammt aus Büchern und Berichten aus zweiter Hand - 
+und es hat dich nicht so gut auf die düstere Realität des Krieges vorbereitet, wie du dachtest.</szDescription>
+		<wisdom>5</wisdom>
+		<resistance_fear>-5</resistance_fear>
+		<resistance_suppression>-15</resistance_suppression>
+		<speed_run>-5</speed_run>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>307</uiIndex>
+		<szName>Psychopath</szName>
+		<szShortName>Psychopath</szShortName>
+		<szDescription>Es gibt unterschiedliche Berichte darüber, wie du es geschafft hast, aus dem Knast zu entkommen, 
+doch in einem sind sich alle einig - Du solltest zurückgehen.</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>308</uiIndex>
+		<szName>Ringer</szName>
+		<szShortName>Ringer</szShortName>
+		<szDescription>Es mag mehr ein Spektakel als ein echter Kampf sein, aber sich durch einen Ring werfen zu lassen, 
+ohne sich das Genick zu brechen, erfordert immer noch eine Menge Geschick.</szDescription>
+		<resistance_physical>10</resistance_physical>
+		<carrystrength>25</carrystrength>
+		<speed_run>5</speed_run>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>309</uiIndex>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinmediziner</szShortName>
+		<szDescription>Ein vielseitiger und gut ausgebildeter Arzt kann ein Menschenleben retten, 
+egal, was sich sein Patient eingefangen hat - ein Virus oder eine Kugel.</szDescription>
+		<medical>10</medical>
+		<speed_bandaging>8</speed_bandaging>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>310</uiIndex>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann menschliches Fleisch schneiden - aber es wieder annähen können nur die Besten!</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>5</speed_bandaging>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>311</uiIndex>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Während andere an ihrer Vergangenheit und deren Etiketten festhalten, hast du dich für das Leben 
+eines Auftragskillers entschieden - und es angenommen. Das ist es, was du wirklich bist.</szDescription>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>312</uiIndex>
+		<szName>Söldner-Veteran</szName>
+		<szShortName>Söldner-Veteran</szShortName>
+		<szDescription>Du warst schon berühmt in diesem Geschäft, bevor diese jungen Leute überhaupt geboren waren. 
+Nach jahrelangen Kämpfen gibt es kaum noch etwas, das dich erschüttern kann.</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>313</uiIndex>
+		<szName>Großwildjäger</szName>
+		<szShortName>Großwildjäger</szShortName>
+		<szDescription>Du reist gerne in die unberührte Natur, suchst nach faszinierenden Arten und TÖTEST SIE ALLE.</szDescription>
+		<ap_desert>1</ap_desert>
+		<ap_swamp>2</ap_swamp>
+		<ap_urban>-3</ap_urban>
+		<ap_tropical>3</ap_tropical>
+		<travel_foot>3</travel_foot>
+		<carrystrength>4</carrystrength>
+		<stealth>6</stealth>
+		<cth_vs_creatures>15</cth_vs_creatures>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>314</uiIndex>
+		<szName>Späher</szName>
+		<szShortName>Späher</szShortName>
+		<szDescription>Zusammen mit einem Scharfschützen ist es deine Aufgabe, 
+Ziele auszumachen und bei der Schussberechnung zu helfen</szDescription>
+		<spotter>30</spotter>
+	</BACKGROUND>
+	<BACKGROUND>
+		<uiIndex>315</uiIndex>
+		<szName>Bombenräumkommando</szName>
+		<szShortName>Bombenräumkommando</szShortName>
+		<szDescription>Du hast Nerven wie Drahtseile und fühlen sich wohl in einem Job, in dem jeder Fehler der letzte sein kann.</szDescription>
+		<dexterity>5</dexterity>
+		<resistance_fear>8</resistance_fear>
+		<breachingcharge>15</breachingcharge>
+		<insurance>50</insurance>
+		<disarm_trap>40</disarm_trap>
+	</BACKGROUND>
+</BACKGROUNDS>

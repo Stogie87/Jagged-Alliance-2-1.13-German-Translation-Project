@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CAMPAIGNSTATSEVENTS>
+  <EVENT>
+    <uiIndex>0</uiIndex><!-- Kampagnenbeginn: Landung in Omerta -->
+    <szText0>(Omerta/Arulco). Unbestätigten Berichten aus der Region zufolge wurden heute in den frühen Morgenstunden unbekannte Hubschrauber über der erst kürzlich befriedeten nordarulcanischen Stadt Omerta gesichtet.</szText0>
+    <szText1>Augenzeugen berichten von einem kurzen Feuergefecht zwischen königlichen Truppen und den unbekannten Angreifern. Der Königspalast hat diese Meldungen bislang weder bestätigt noch dementiert.</szText1>
+    <szText2>Omerta, die traditionelle Hochburg der Familie Cordona, war das letzte Zentrum des Aufstands von Miguel Cordona gegen Königin Deidranna.</szText2>
+    <szText3>Die Stadt wurde erst vor zwei Monaten von gepanzerten Einheiten der königlichen Garde eingenommen.</szText3>
+    <szText4>Ein Wiederaufflammen der Rebellion kann derzeit nicht ausgeschlossen werden, zumal das Regime den Tod Cordonas und seines engsten Kreises nie öffentlich bestätigt hat.</szText4>
+    <szText5>Allerdings erscheint es unwahrscheinlich, dass ein neuer Aufstand</szText5>
+    <szText6>angesichts des erheblichen Ausbaus der arulcanischen Streitkräfte in den vergangenen Jahren Aussicht auf Erfolg hätte. Ebenfalls denkbar ist ein Zerwürfnis zwischen Deidranna und dem berüchtigten, gut bewaffneten Verbrechersyndikat von San Mona.</szText6>
+    <szText7>Angesichts des offensichtlichen Kräfteverhältnisses zwischen beiden Seiten erscheint jedoch auch dies wenig wahrscheinlich.</szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>1</uiIndex><!-- Tod von Kingpin -->
+    <szText0>(San Mona/Arulco). Beunruhigende Berichte erreichen unsere Korrespondenten aus dem vom Krieg erschütterten Arulco.</szText0>
+    <szText1>Bisher schien es, als bliebe der neu entflammte Konflikt zwischen der königlichen Armee und den erstarkten Rebellen auf den Osten und das Zentrum des Landes beschränkt. Diese Einschätzung hat sich nun auf brutale Weise als falsch erwiesen.</szText1>
+    <szText2>Eine Welle der Gewalt erfasste die Zivilstadt San Mona. Seit die örtliche Bergbauindustrie vor einem Jahrzehnt zusammenbrach, hatte sich San Mona zum regionalen Handelszentrum entwickelt.</szText2>
+    <szText3>Anders als in den meisten arulcanischen Städten, die unter strenger Kontrolle der königlichen Armee stehen, genossen die Einwohner hier ein für Arulco ungewöhnlich hohes Maß an persönlicher Freiheit.</szText3>
+    <szText4>Abgesehen von einer kleinen Bürgerwehr, die von örtlichen Geschäftsleuten aufgestellt worden war, gab es hier keine bewaffnete</szText4>
+    <szText5>Präsenz. Dennoch griffen die Rebellen die Stadt mit voller Härte an. Ob sie vereinzelte Armeepatrouillen überraschen wollten oder ein Blutbad unter der Bevölkerung bewusst in Kauf nahmen, ist unklar.</szText5>
+    <szText6>Bestätigt ist jedoch, dass der Bürgermeister von San Mona, der weithin angesehene Geschäftsmann Peter Klaus, gezielt angegriffen und zusammen mit einem Großteil seiner Mitarbeiter getötet wurde.</szText6>
+    <szText7>Berichte über zahlreiche Tote und die Zerstörung privaten Eigentums zeichnen ein düsteres Bild vom Vorgehen der Aufständischen. Es gibt sogar Gerüchte über als Geiseln verschleppte Einwohner; bestätigen lassen sie sich bislang nicht.</szText7>
+    <szText8>In einer Stellungnahme verurteilte der stellvertretende US-Außenminister Kenneth B. Hawkeburger das Vorgehen der Aufständischen erneut.</szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>2</uiIndex><!-- Massaker an den Hicks -->
+    <szText0>(Cambria/Arulco). Wieder einmal sind die wenigen Nachrichten, die Arulco verlassen, äußerst beunruhigend. Offenbar wurde heute eine ganze Großfamilie getötet.</szText0>
+    <szText1>Der genaue Ablauf ist unklar. Anscheinend überfielen die Aufständischen einen Bauernhof östlich von Cambria und töteten dort jeden Mann, jede Frau und jedes Kind, das sie fanden.</szText1>
+    <szText2>Der Hof war einer der wenigen noch bewirtschafteten landwirtschaftlichen Betriebe Arulcos und zugleich einer der größten und erfolgreichsten.</szText2>
+    <szText3>Der Familienbetrieb der Hicks bestand bereits in sechster Generation und versorgte Cambria mit dringend benötigten Lebensmitteln. Große Teile Arulcos sind unterentwickelt, und der aktuelle Konflikt hat die Versorgungslage weiter verschärft.</szText3>
+    <szText4>Über den gesamten Hof verteilt liegen noch immer die Leichen von Familienmitgliedern. Sie blieben dort liegen, wo sie erschossen wurden; ihr Besitz wurde geraubt und der Hof</szText4>
+    <szText5>geplündert. Welchen Zweck die Rebellen damit verfolgen, ist nicht völlig klar. Gut informierte Quellen weisen jedoch darauf hin, dass die Rebellen selbst bis vor Kurzem unter erheblichem Lebensmittelmangel gelitten haben sollen.</szText5>
+    <szText6>Bekannt ist außerdem, dass zwischen der wirtschaftlichen Elite Cambrias und den örtlichen Bauern Spannungen bestanden. Die Führungsschicht der Stadt scheint sich inzwischen auf die Seite des Aufstands gestellt zu haben.</szText6>
+    <szText7>Auf dem zunehmend zersplitterten Schlachtfeld Arulcos ist dies eine weitere bedenkliche Entwicklung: Lokale Gruppen nutzen den bewaffneten Aufstand offenbar auch, um alte Rechnungen zu begleichen.</szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>3</uiIndex><!-- Blutkatzen-Nest geräumt -->
+    <szText0>(Alma/Arulco). Eine weitere besorgniserregende Entwicklung zeigt, dass inzwischen nicht einmal mehr Arulcos Tierwelt dem sich ausweitenden Bürgerkrieg entkommt.</szText0>
+    <szText1>Nach Angaben örtlicher Mitarbeiter eines UN-Artenschutzprojekts nehmen Söldnergruppen zunehmend die heimische Blutkatzenpopulation ins Visier.</szText1>
+    <szText2>Die arulcanische Blutkatze (Panthera arulcanis) zählt zu den größten Raubkatzen der Welt und kommt ausschließlich in Arulco vor. Der ohnehin kleine Bestand gerät durch Trophäenjäger zunehmend unter Druck.</szText2>
+    <szText3>Die Zähne der Blutkatzen werden in mehreren traditionellen Rezepturen der südostasiatischen Medizin verwendet.</szText3>
+    <szText4>Es wird befürchtet, dass die Rebellen die Blutkatzen als zusätzliche Einnahmequelle ins Visier genommen haben, um ihren immer intensiveren Feldzug zu finanzieren.</szText4>
+    <szText5>Ihre Haupteinnahmen sollen zwar direkt aus den Minen der eroberten Städte stammen, doch diese Gebiete sind weiterhin hart umkämpft, da die königliche Armee angekündigt hat, sie zurückzuerobern.</szText5>
+    <szText6>Fast täglich kommt es dort zu Zusammenstößen. Die scheuen Blutkatzen sind dagegen ein deutlich leichteres und kaum umkämpftes Ziel. Ob sich ihr Bestand jemals davon erholen kann, bezweifelt der international anerkannte Blutkatzenexperte Dr. Ernest Poppin.</szText6>
+    <szText7>"Diese Katzen leben ausschließlich in Arulco. Nirgendwo sonst auf der Welt kommen sie vor, und in Gefangenschaft wurden sie noch nie erfolgreich gezüchtet. Das ist eine Tragödie. Als Wissenschaftler bin ich über dieses sinnlose Abschlachten entsetzt.</szText7>
+    <szText8>Ich kann die Verantwortlichen nur mit allem Nachdruck auffordern, diesen Konflikt schnell zu beenden, bevor eine weitere Art unwiederbringlich verloren geht."</szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>4</uiIndex><!-- Armee erobert eine Stadt zurück -->
+    <szText0>(Arulcanisches Informationsministerium). Wieder einmal schlagen Arulcos tapfere Verteidiger gegen den dreifach verfluchten Rebellenabschaum zurück.</szText0>
+    <szText1>Auf der jüngsten Sitzung des arulcanischen Sicherheitsrats verkündete unsere weitsichtige Militärführung voller Stolz, dass die Volksarmee Recht und Ordnung in einer zuvor von den Verrätern besetzten Stadt erfolgreich wiederhergestellt hat.</szText1>
+    <szText2>Die sogenannten "Rebellen" unter Führung des gefährlichen Flüchtigen Miguel Cordona hatten ausländische Söldner eingesetzt, die ihnen von übelgesinnten Kräften zur Verfügung gestellt wurden, um unser Vaterland auszuplündern.</szText2>
+    <szText3>Dank der weitsichtigen Führung unserer geliebten Königin Deidranna wurden die Terroristen jedoch von unseren Brüdern und Schwestern der königlichen arulcanischen Streitkräfte vernichtend geschlagen.</szText3>
+    <szText4>Während die Sicherheitskräfte die Stadt noch nach Sprengfallen und versteckten Verrätern durchsuchen, können die Bürger</szText4>
+    <szText5>Arulcos darauf vertrauen, dass der uns von feindseligen Ausländern aufgezwungene Albtraum des bewaffneten Kampfes bald ein Ende haben wird.</szText5>
+    <szText6>"Und das ist auch gut so", erklärte unsere großartige Führerin. "Für die Verbrechen dieser Kriminellen ist der Tod die einzig angemessene Strafe. Ich werde nicht ruhen, bis jeder einzelne dieser Schurken bekommen hat, was er verdient."</szText6>
+    <szText7>So spricht Königin Deidranna, und so spricht jeder aufrechte Bürger Arulcos. Arbeiten wir gemeinsam daran, diesen Krieg jetzt zu beenden und die Aggressoren dorthin zurückzuschicken, woher sie gekommen sind. Es lebe Arulco!</szText7>
+    <szText8>Es lebe Deidranna!</szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>5</uiIndex><!-- Drassen befreit -->
+    <szText0>(Drassen/Arulco). In einer überraschenden Entwicklung haben bislang unbekannte bewaffnete Kräfte die Stadt Drassen und ihren Flughafen eingenommen.</szText0>
+    <szText1>Trotz zunehmend heftigen Widerstands der örtlichen Sicherheitskräfte, der Garnison und rasch mobilisierter Verstärkungen nahmen die Aufständischen die Stadt in drei Etappen ein.</szText1>
+    <szText2>Die königlichen Truppen waren auf einen Angriff dieses Ausmaßes offenbar nicht vorbereitet, wurden geschlagen und mussten sich zurückziehen. Größe und Zusammensetzung der Rebellentruppe sind unbekannt.</szText2>
+    <szText3>Auch über ihre Beweggründe und Ziele ist derzeit nichts bekannt. Geheimdienstkreise vermuten einen Zusammenhang mit früheren Meldungen über einen Hinterhalt unbekannter Kräfte gegen eine Armeepatrouille in der Region Omerta.</szText3>
+    <szText4>Drassen liegt am nordöstlichen See Arulcos und</szText4>
+    <szText5>beherbergt einen der beiden Flughäfen des Landes. Damit ist die Stadt ein naheliegendes Ziel für jeden, der Königin Deidrannas feste Kontrolle über Arulco infrage stellen will.</szText5>
+    <szText6>Zudem arbeitet ein erheblicher Teil der Bevölkerung in den örtlichen Silberminen. In Drassen befindet sich außerdem eine der wenigen Fabriken, die Exportgüter herstellen und damit dringend benötigte Devisen einbringen.</szText6>
+    <szText7>Umso unverständlicher wirkt die unzureichende Reaktion der königlichen Armee. Ob diese schockierende Niederlage nur ein einmaliger Fehler der Militärführung war oder auf grundlegende Schwächen der arulcanischen Streitkräfte hindeutet, bleibt abzuwarten.</szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>6</uiIndex><!-- Alma befreit -->
+    <szText0>(Arulco-Revolutionsbewegung). Bürger Arulcos!</szText0>
+    <szText1>Die Revolution hat erneut zugeschlagen! Heute haben die Männer und Frauen unserer Bewegung das Herz der Unterdrücker getroffen. Wir haben die Militärfestung Alma erfolgreich angegriffen und eingenommen.</szText1>
+    <szText2>Obwohl die Unterdrücker die Stadt schwer befestigt hatten, konnten sie unserem heldenhaften Ansturm nicht standhalten. Die Stadt und das Ausbildungslager der Armee sind befreit.</szText2>
+    <szText3>Auch unsere dort gefangengehaltenen Mitbürger haben wir befreit. Kein aufrechter Mensch muss Deidrannas Folterzellen länger fürchten.</szText3>
+    <szText4>Große Vorräte an Armeematerial fielen uns in die Hände. Wir werden sie einsetzen, um gegen die Unterdrücker zurückzuschlagen.</szText4>
+    <szText5>Unser Revolutionsführer Miguel Cordona dankte den Befreiern persönlich auf dem Schlachtfeld.</szText5>
+    <szText6>"Dies beweist erneut, dass wir die verdorbene Königin besiegen können, wenn wir nur zusammenstehen. Jeder Sohn und jede Tochter Arulcos sollte sich uns jetzt anschließen, damit wir diese Sache ein für alle Mal beenden. Schließt euch uns an und befreit unser Heimatland!"</szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>7</uiIndex><!-- Grumm befreit -->
+    <szText0>(Grumm/Arulco). Nach einem langen und blutigen Kampf ist das industrielle Herz Arulcos endgültig an die Rebellen gefallen.</szText0>
+    <szText1>Grumm, Zentrum des arulcanischen Goldbergbaus und Standort der einzigen nennenswerten Industrie des Landes, galt lange Zeit als nahezu uneinnehmbar.</szText1>
+    <szText2>Heute erklärte die Arulco-Revolutionsbewegung jedoch, die gesamte Stadt eingenommen zu haben. Wie lange sie Grumm halten kann, ist unklar; Korrespondenten vor Ort berichten, dass der Griff der Rebellen weniger fest ist, als diese es gern darstellen.</szText2>
+    <szText3>Wegen Grumms wirtschaftlicher Bedeutung und seiner strategischen Lage an einer der wichtigsten Straßen zur Hauptstadt Meduna ist mit einer schweren Reaktion der Armee zu rechnen.</szText3>
+    <szText4>Da die Rebellen der zahlenmäßigen Überlegenheit der königlichen Armee im Häuserkampf nur schwer standhalten könnten, dürfte eine entscheidende Schlacht um Grumm am ehesten im östlichen Minenbezirk stattfinden.</szText4>
+    <szText5></szText5>
+    <szText6></szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>8</uiIndex><!-- Tixa befreit -->
+    <szText0>(Arulcanisches Informationsministerium). Wieder einmal haben die sogenannten "Befreier" Arulcos einen neuen Tiefpunkt erreicht.</szText0>
+    <szText1>Aufständische überrannten die Hochsicherheitsanlage von Tixa, töteten die gesamte Wachmannschaft einschließlich ziviler Auftragnehmer und befreiten mehrere gefährliche Kriminelle.</szText1>
+    <szText2>Tixa besitzt abgesehen von den Insassen selbst keinerlei strategischen Wert. Offenbar reicht es den Aufständischen nicht, das ganze Land in einen offenen Krieg zu treiben; nun wollen sie ihre Reihen auch noch mit bekannten Terroristen, Mördern und Vergewaltigern verstärken.</szText2>
+    <szText3>Damit ist die böswillige Absicht der Kräfte, die sich gegen Arulco zusammengeschlossen haben, erneut zweifelsfrei bewiesen. General Humphey, Generalstabschef der Armee, kündigte eine entschlossene, aber angemessene Antwort auf diesen unprovozierten Angriff an.</szText3>
+    <szText4>"Wir werden nicht ruhen, bis die Täter zur Rechenschaft gezogen sind. Diese Männer wurden in rechtsstaatlichen Verfahren zu langen Haftstrafen verurteilt, und genau dorthin werden wir sie zurückbringen, sobald wir sie wieder gefasst haben."</szText4>
+    <szText5></szText5>
+    <szText6></szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>9</uiIndex><!-- Cambria befreit -->
+    <szText0>(Cambria/Arulco). In einem weiteren Erfolg für die wiedererstarkten Anhänger des berüchtigten Rebellenführers Miguel Cordona ist die zentral gelegene Stadt Cambria an die Rebellen gefallen.</szText0>
+    <szText1>Mit einer Geschwindigkeit, die noch vor wenigen Monaten undenkbar gewesen wäre, als die Rebellen nach der Niederlage in Omerta als zerschlagen galten, drängte die Arulco-Revolutionsbewegung die Armee aus allen Stadtsektoren zurück und kontrolliert Cambria nun vollständig.</szText1>
+    <szText2>Allerdings ist festzuhalten, dass die Armee im Kernland Arulcos weiterhin stark vertreten ist, unter anderem mit einem Militärstützpunkt in der südlichen Wüste.</szText2>
+    <szText3>Die Rebellen scheinen ihrerseits entschlossen, die Stadt zu halten. Sie verloren keine Zeit und haben bereits erste Schritte zur Aufstellung einer örtlichen Hilfsmiliz eingeleitet.</szText3>
+    <szText4>Da die Armee Cambria praktisch zurückerobern muss, wenn sie nicht die Kontrolle über den gesamten Norden des Landes verlieren will, sind weitere Kämpfe nahezu sicher.</szText4>
+    <szText5></szText5>
+    <szText6></szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>10</uiIndex><!-- San Mona befreit -->
+    <szText0>Im Spiel nicht verwendet.</szText0>
+    <szText1>Im Spiel nicht verwendet.</szText1>
+    <szText2>Im Spiel nicht verwendet.</szText2>
+    <szText3>Im Spiel nicht verwendet.</szText3>
+    <szText4>Im Spiel nicht verwendet.</szText4>
+    <szText5>Im Spiel nicht verwendet.</szText5>
+    <szText6>Im Spiel nicht verwendet.</szText6>
+    <szText7>Im Spiel nicht verwendet.</szText7>
+    <szText8>Im Spiel nicht verwendet.</szText8>
+    <szText9>Im Spiel nicht verwendet.</szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>11</uiIndex><!-- Estoni befreit -->
+    <szText0>Im Spiel nicht verwendet.</szText0>
+    <szText1>Im Spiel nicht verwendet.</szText1>
+    <szText2>Im Spiel nicht verwendet.</szText2>
+    <szText3>Im Spiel nicht verwendet.</szText3>
+    <szText4>Im Spiel nicht verwendet.</szText4>
+    <szText5>Im Spiel nicht verwendet.</szText5>
+    <szText6>Im Spiel nicht verwendet.</szText6>
+    <szText7>Im Spiel nicht verwendet.</szText7>
+    <szText8>Im Spiel nicht verwendet.</szText8>
+    <szText9>Im Spiel nicht verwendet.</szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>12</uiIndex><!-- Orta befreit -->
+    <szText0>Im Spiel nicht verwendet.</szText0>
+    <szText1>Im Spiel nicht verwendet.</szText1>
+    <szText2>Im Spiel nicht verwendet.</szText2>
+    <szText3>Im Spiel nicht verwendet.</szText3>
+    <szText4>Im Spiel nicht verwendet.</szText4>
+    <szText5>Im Spiel nicht verwendet.</szText5>
+    <szText6>Im Spiel nicht verwendet.</szText6>
+    <szText7>Im Spiel nicht verwendet.</szText7>
+    <szText8>Im Spiel nicht verwendet.</szText8>
+    <szText9>Im Spiel nicht verwendet.</szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>13</uiIndex><!-- Balime befreit -->
+    <szText0>(Balime/Arulco). In einem besonders schmerzhaften Schlag gegen Deidrannas Regime haben Rebellentruppen die südliche Küstenstadt Balime eingenommen.</szText0>
+    <szText1>Balime, eine Hochburg von Deidrannas Anhängern, gehört zu den weiter entwickelten Städten Arulcos und war bisher von einem Großteil der Gewalt dieses Konflikts verschont geblieben.</szText1>
+    <szText2>In der Stadt lebt die reiche und einflussreiche Elite Arulcos, die eine wichtige Stütze des Regimes bildet. Entsprechend hoch ist die Loyalität zu Deidranna weiterhin.</szText2>
+    <szText3>Der strategische Wert ist allerdings geringer als bei anderen Städten, denn Balime ist ein Zentrum von Handel und Kultur, nicht der Industrie.</szText3>
+    <szText4>Da die Einwohner nur wenig Bereitschaft zeigen, sich der Rebellion anzuschließen, ist unklar, wie lange die Rebellen die Stadt halten können. Die Armee scheint fest entschlossen, sie früher oder später zurückzuerobern.</szText4>
+    <szText5>Es wird befürchtet, dass Teile der Rebellion die Gelegenheit nutzen werden, sich an Menschen zu rächen, die sie hier als Unterdrücker betrachten. Die Spannungen sind hoch; viele Einwohner sind aus der Stadt geflohen und suchen Schutz in Meduna.</szText5>
+    <szText6>Weit verbreitete Berichte, wonach das Museum mit einzigartigen Zeugnissen der arulcanischen Geschichte bereits geplündert worden sei, lassen sich derzeit nicht bestätigen.</szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>14</uiIndex><!-- Meduna befreit -->
+    <szText0>(Meduna/Arulco). Der Bürgerkrieg in Arulco scheint sich seinem Ende zu nähern. Rebellentruppen haben den Großteil der Stadtviertel eingenommen und liefern sich nun direkte Feuergefechte mit der königlichen Elitegarde.</szText0>
+    <szText1>In brutalen Kämpfen im gesamten Stadtgebiet haben die Rebellen die letzten Reste der königlichen Armee immer weiter zurückgedrängt.</szText1>
+    <szText2>Nahezu die gesamte mechanisierte Infanterie Arulcos war hier stationiert.</szText2>
+    <szText3>Die Rebellen verfügten zwar über keine eigenen Panzer, doch Deidrannas Entscheidung, ihre gepanzerten Kräfte in den Häuserkampf zu zwingen, erwies sich als schwerer strategischer Fehler. Dort konnten die Rebellen den Fahrzeugen ausweichen und sie einzeln ausschalten.</szText3>
+    <szText4>Der militärische Nachrichtendienst hatte der Königin lange geraten, die wenigen mechanisierten Bataillone für einen vernichtenden Angriff im offenen Gelände gegen Rebellenstellungen bei Cambria einzusetzen. Die Königin entschied sich jedoch stets dagegen.</szText4>
+    <szText5>In äußerst beweglichen Gefechten setzten die Rebellen zahlreiche Panzerabwehrwaffen und Mörser ein. Offenbar haben sie sich während des gesamten Feldzugs auf diesen Augenblick vorbereitet.</szText5>
+    <szText6>Der Aufenthaltsort von Königin Deidranna und ihrem engsten Kreis ist unbekannt. Wegen der anhaltenden Kämpfe ist die Stadt nicht mehr zugänglich; auch der Flughafen fiel nach heftigen Gefechten. Gerüchten zufolge befindet sich Elliot, das öffentliche Gesicht des Regimes, unter den Opfern.</szText6>
+    <szText7>Dies ist die Endphase des Bürgerkriegs, und die Rebellen stehen unmittelbar vor ihrem Ziel.</szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+  <EVENT>
+    <uiIndex>15</uiIndex><!-- Chitzena befreit -->
+    <szText0>(Chitzena/Arulco). Selbst die abgelegenen Regionen Arulcos entkommen der Gewalt nicht länger. Chitzena ist an die Rebellen gefallen.</szText0>
+    <szText1>Nach Einschätzung unserer Analysten zeigt dies, dass die Rebellen nicht mehr darauf hoffen, das Regime zu überraschen. Stattdessen wollen sie offenbar dessen Truppen aus jeder einzelnen Stadt vertreiben.</szText1>
+    <szText2>Der strategische Wert Chitzenas ist gering. Nennenswerte Industrie gibt es nicht, abgesehen von einem sehr begrenzten Bergbau. Die Stadt beherbergt jedoch antike Ruinen und besitzt deshalb für viele Arulcaner einen hohen ideellen Wert.</szText2>
+    <szText3>Wie die Rebellen eine derart abgelegene Siedlung dauerhaft halten wollen, ist unklar.</szText3>
+    <szText4></szText4>
+    <szText5></szText5>
+    <szText6></szText6>
+    <szText7></szText7>
+    <szText8></szText8>
+    <szText9></szText9>
+  </EVENT>
+</CAMPAIGNSTATSEVENTS>
